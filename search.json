@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join",
+    "section": "",
+    "text": "We’re open to highly motivated collaborators who want to build useful, clinically grounded stroke research and neuroAI.\nGood fits - Undergrad / med students who can commit consistently (data + writing) - Residents/fellows interested in outcomes/epidemiology or imaging/AI - Research engineers / data scientists (Python, EHR data, NLP, imaging)\nWhat to email Send CV + 2–3 sentences describing your interests and what you want to learn/build. If you have it, include a short writing sample or GitHub/code snippet."
+  },
+  {
+    "objectID": "join.html#opportunities",
+    "href": "join.html#opportunities",
+    "title": "Join",
+    "section": "",
+    "text": "We’re open to highly motivated collaborators who want to build useful, clinically grounded stroke research and neuroAI.\nGood fits - Undergrad / med students who can commit consistently (data + writing) - Residents/fellows interested in outcomes/epidemiology or imaging/AI - Research engineers / data scientists (Python, EHR data, NLP, imaging)\nWhat to email Send CV + 2–3 sentences describing your interests and what you want to learn/build. If you have it, include a short writing sample or GitHub/code snippet."
+  },
+  {
+    "objectID": "join.html#contact",
+    "href": "join.html#contact",
+    "title": "Join",
+    "section": "Contact",
+    "text": "Contact\nLiqi Shu, MD\nUPMC Department of Neurology\n200 Lothrop St, Pittsburgh, PA 15213\nEmail: shul@pitt.edu"
+  },
+  {
     "objectID": "people.html#principal-investigator",
     "href": "people.html#principal-investigator",
     "title": "People",
@@ -49,25 +70,25 @@
     "text": "Full list\nFor an always-updated complete full list, see Google Scholar."
   },
   {
-    "objectID": "join.html",
-    "href": "join.html",
-    "title": "Join",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shu Lab",
     "section": "",
-    "text": "We’re open to highly motivated collaborators who want to build useful, clinically grounded stroke research and neuroAI.\nGood fits - Undergrad / med students who can commit consistently (data + writing) - Residents/fellows interested in outcomes/epidemiology or imaging/AI - Research engineers / data scientists (Python, EHR data, NLP, imaging)\nWhat to email Send CV + 2–3 sentences describing your interests and what you want to learn/build. If you have it, include a short writing sample or GitHub/code snippet."
+    "text": "We build clinically grounded, data-driven tools to improve stroke prevention, neuroendovascular care, and neurorecovery—connecting large-scale EHR evidence, imaging, and translational insights to decisions that matter at the bedside.\nOur work spans national administrative datasets (e.g., NIS/NRD), multicenter registries, and imaging/AI pipelines, with a bias toward deployable clinical utility (risk stratification, prognostication, and workflow tools).\n:::"
   },
   {
-    "objectID": "join.html#opportunities",
-    "href": "join.html#opportunities",
-    "title": "Join",
-    "section": "",
-    "text": "We’re open to highly motivated collaborators who want to build useful, clinically grounded stroke research and neuroAI.\nGood fits - Undergrad / med students who can commit consistently (data + writing) - Residents/fellows interested in outcomes/epidemiology or imaging/AI - Research engineers / data scientists (Python, EHR data, NLP, imaging)\nWhat to email Send CV + 2–3 sentences describing your interests and what you want to learn/build. If you have it, include a short writing sample or GitHub/code snippet."
+    "objectID": "index.html#focus-areas",
+    "href": "index.html#focus-areas",
+    "title": "Shu Lab",
+    "section": "Focus areas",
+    "text": "Focus areas\n\n\n\nPeri-procedural stroke\nRisk stratification and prevention around procedures and EVT workflows.\n\n\n\nCerebrovascular epidemiology\nNationwide and multicenter evidence (NIS/NRD, registries).\n\n\n\nImaging + computer vision\nNeuroimaging phenotypes and practical AI pipelines.\n\n\n\nNeurorecovery analytics\nKinematics and neuroanatomy-informed recovery models."
   },
   {
-    "objectID": "join.html#contact",
-    "href": "join.html#contact",
-    "title": "Join",
-    "section": "Contact",
-    "text": "Contact\nLiqi Shu, MD\nUPMC Department of Neurology\n200 Lothrop St, Pittsburgh, PA 15213\nEmail: shuliqi@gmail.com"
+    "objectID": "index.html#recent-publication-highlights",
+    "href": "index.html#recent-publication-highlights",
+    "title": "Shu Lab",
+    "section": "Recent publication highlights",
+    "text": "Recent publication highlights\n\n\n\nPerioperative Stroke\nStroke (2025) • PubMed: 40444359\n\n\n\nIV thrombolysis in CeAD-related AIS\nJAHA (2025) • PubMed: 39968775\n\n\n\nCeAD incidence trends + recurrent stroke risk\nNeurology (2025) • PubMed: 40173376"
   },
   {
     "objectID": "research.html",
@@ -110,34 +131,6 @@
     "title": "Research",
     "section": "Neurorecovery & rehabilitation analytics",
     "text": "Neurorecovery & rehabilitation analytics\nIn partnership with neurorecovery groups, we analyze post-stroke upper extremity kinematics and structural neuroimaging to connect neuroanatomy with functional recovery and rehabilitation outcomes."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Liqi Shu, MD\nUniversity of Pittsburgh Medical Center (UPMC)\nDepartment of Neurology\n200 Lothrop St, Pittsburgh, PA 15213\nEmail: shuliqi@gmail.com"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Shu Lab",
-    "section": "",
-    "text": "We build clinically grounded, data-driven tools to improve stroke prevention, neuroendovascular care, and neurorecovery—connecting large-scale EHR evidence, imaging, and translational insights to decisions that matter at the bedside.\nOur work spans national administrative datasets (e.g., NIS/NRD), multicenter registries, and imaging/AI pipelines, with a bias toward deployable clinical utility (risk stratification, prognostication, and workflow tools).\n:::"
-  },
-  {
-    "objectID": "index.html#focus-areas",
-    "href": "index.html#focus-areas",
-    "title": "Shu Lab",
-    "section": "Focus areas",
-    "text": "Focus areas\n\n\n\nPeri-procedural stroke\nRisk stratification and prevention around procedures and EVT workflows.\n\n\n\nCerebrovascular epidemiology\nNationwide and multicenter evidence (NIS/NRD, registries).\n\n\n\nImaging + computer vision\nNeuroimaging phenotypes and practical AI pipelines.\n\n\n\nNeurorecovery analytics\nKinematics and neuroanatomy-informed recovery models."
-  },
-  {
-    "objectID": "index.html#recent-publication-highlights",
-    "href": "index.html#recent-publication-highlights",
-    "title": "Shu Lab",
-    "section": "Recent publication highlights",
-    "text": "Recent publication highlights\n\n\n\nPerioperative Stroke\nStroke (2025) • PubMed: 40444359\n\n\n\nIV thrombolysis in CeAD-related AIS\nJAHA (2025) • PubMed: 39968775\n\n\n\nCeAD incidence trends + recurrent stroke risk\nNeurology (2025) • PubMed: 40173376"
   },
   {
     "objectID": "about.html",
