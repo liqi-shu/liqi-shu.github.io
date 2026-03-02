@@ -1,0 +1,83 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero}
+::: {.hero-inner}
+# Shu Lab
+
+::: {.hero-lede}
+We build **clinically grounded, data-driven tools** to improve **stroke prevention, neuroendovascular care, and neurorecovery**—connecting large-scale EHR evidence, imaging, and translational insights to decisions that matter at the bedside.
+
+Our work spans national administrative datasets (e.g., NIS/NRD), multicenter registries, and imaging/AI pipelines, with a bias toward **deployable clinical utility** (risk stratification, prognostication, and workflow tools).
+:::
+
+:::
+:::
+
+::: {.below-hero}
+::: {.container-narrow}
+
+::: {.panel}
+
+## [Focus areas](research.qmd)
+
+::: {.columns}
+::: {.column width="25%"}
+::: {.focus-chip}
+**Peri-procedural stroke**  
+Risk stratification and prevention around procedures and EVT workflows.
+:::
+:::
+
+::: {.column width="25%"}
+::: {.focus-chip}
+**Cerebrovascular epidemiology**  
+Nationwide and multicenter evidence (NIS/NRD, registries).
+:::
+:::
+
+::: {.column width="25%"}
+::: {.focus-chip}
+**Imaging + computer vision**  
+Neuroimaging phenotypes and practical AI pipelines.
+:::
+:::
+
+::: {.column width="25%"}
+::: {.focus-chip}
+**Neurorecovery analytics**  
+Kinematics and neuroanatomy-informed recovery models.
+:::
+:::
+:::
+:::
+
+## [Recent publication highlights](publications.qmd)
+
+::: {.columns}
+::: {.column width="33%"}
+::: {.highlight-card}
+**Perioperative Stroke**  
+*Stroke* (2025) • PubMed: 40444359
+:::
+:::
+
+::: {.column width="33%"}
+::: {.highlight-card}
+**IV thrombolysis in CeAD-related AIS**  
+*JAHA* (2025) • PubMed: 39968775
+:::
+:::
+
+::: {.column width="33%"}
+::: {.highlight-card}
+**CeAD incidence trends + recurrent stroke risk**  
+*Neurology* (2025) • PubMed: 40173376
+:::
+:::
+:::
+:::
+:::
+:::

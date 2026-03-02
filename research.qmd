@@ -1,0 +1,28 @@
+---
+title: "Research"
+---
+
+::: {.research-item}
+## Peri-procedural stroke & neuroendovascular outcomes
+We study perioperative/periprocedural stroke risk, mechanisms, and prevention strategies, aiming for tools that can inform counseling, peri-procedural management, and early detection.
+:::
+
+::: {.research-item}
+## Cervical artery dissection (CeAD): acute treatment and recurrence
+Large-scale analyses of CeAD incidence, outcomes, and recurrence, including nationwide work on IV thrombolysis in CeAD-related AIS and longitudinal incidence trends.
+:::
+
+::: {.research-item}
+## Cerebral venous thrombosis (CVT): prediction and long-term outcomes
+Risk stratification after CVT, including prediction of post-CVT epilepsy and recurrent venous thrombosis using multicenter registries and pragmatic clinical scores.
+:::
+
+::: {.research-item}
+## Imaging + AI (medical image analysis & computer vision)
+We collaborate on radiology and imaging-core efforts to build robust analysis pipelines for neuroimaging and computer vision applications—prioritizing clinically useful outputs.
+:::
+
+::: {.research-item}
+## Neurorecovery & rehabilitation analytics
+In partnership with neurorecovery groups, we analyze post-stroke upper extremity kinematics and structural neuroimaging to connect neuroanatomy with functional recovery and rehabilitation outcomes.
+:::

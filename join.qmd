@@ -1,0 +1,22 @@
+---
+title: "Join"
+---
+
+## Opportunities
+
+We’re open to highly motivated collaborators who want to build **useful, clinically grounded** stroke research and neuroAI.
+
+**Good fits**
+- Undergrad / med students who can commit consistently (data + writing)
+- Residents/fellows interested in outcomes/epidemiology or imaging/AI
+- Research engineers / data scientists (Python, EHR data, NLP, imaging)
+
+**What to email**
+Send **CV + 2–3 sentences** describing your interests and what you want to learn/build. If you have it, include a short writing sample or GitHub/code snippet.
+
+## Contact
+**Liqi Shu, MD**  
+UPMC Department of Neurology  
+200 Lothrop St, Pittsburgh, PA 15213  
+
+**Email:** shuliqi@gmail.com  

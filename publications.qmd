@@ -1,0 +1,19 @@
+---
+title: "Publications"
+---
+
+## Selected (recent)
+
+- **Shu L**, Aziz YN, de Havenon A, Messe SR, Nguyen TN, Sur NB, … Yaghi S. Perioperative Stroke: Mechanisms, Risk Stratification, and Management. **Stroke** (2025). PubMed: 40444359.
+- **Shu L**, **Lee E**, Field TS, Guo X, Henninger N, Keser Z, … Yaghi S. Intravenous Thrombolysis in Cervical Artery Dissection–Related Stroke: A Nationwide Study. **J Am Heart Assoc** (2025). PubMed: 39968775.
+- **Shu L**, **Strelecky L**, de Havenon A, Nguyen TN, Henninger N, Keser Z, … Yaghi S. Incidence Trends and Risk of Recurrent Stroke of Cervical Artery Dissections in the US (2005–2019). **Neurology** (2025). PubMed: 40173376.
+- Lindgren E*, **Shu L***, Simaan N*, … Zuurbier SM. Clinical score to predict epilepsy after CVT (DIAS³). **JAMA Neurology** (2024). PubMed: 39432281.
+- **Shu L**, **Jack N**, de Havenon A, … Yaghi S. Risk factors for MACE and bleeding in AF patients undergoing surgery (BRIDGE trial insights). **J Stroke Cerebrovasc Dis** (2024).
+- **Shu L**, Jiang W, Xiao H, Henninger N, Nguyen T, Siegler J, … Yaghi S. Perioperative Acute Ischemic Stroke in Patients with Atrial Fibrillation. **Ann Neurol** (2023). PubMed: 37183768.
+- **Shu L**, de Havenon A, Liberman AL, Henninger N, … Yaghi S. Trends in VTE readmission after AIS and ICH. **J Stroke** (2023). PubMed: 36592970.
+- **Shu L**, Bakradze E, Omran SS, … Yaghi S. Predictors of recurrent venous thrombosis after CVT (ACTION-CVT). **Neurology** (2022). PubMed: 36123126.
+- Yu G, Yang Y, Wang X, … **Shu L**. Adversarial active learning for medical concept identification and annotation inconsistency. **J Biomed Inform** (2020). PubMed: 32687985.
+
+## Full list
+
+For an always-updated complete full list, see [Google Scholar](https://scholar.google.com/citations?user=uFmbVxEAAAAJ&hl=en){.link-muted}.
