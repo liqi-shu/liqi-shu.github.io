@@ -9,3 +9,5 @@
 
 # Misc
 *.log
+
+**/*.quarto_ipynb

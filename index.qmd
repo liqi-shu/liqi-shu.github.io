@@ -58,21 +58,21 @@ Kinematics and neuroanatomy-informed recovery models.
 
 ::: {.columns}
 ::: {.column width="33%"}
-::: {.highlight-card}
+::: {.focus-chip}
 **Perioperative Stroke**  
 *Stroke* (2025) • PubMed: 40444359
 :::
 :::
 
 ::: {.column width="33%"}
-::: {.highlight-card}
+::: {.focus-chip}
 **IV thrombolysis in CeAD-related AIS**  
 *JAHA* (2025) • PubMed: 39968775
 :::
 :::
 
 ::: {.column width="33%"}
-::: {.highlight-card}
+::: {.focus-chip}
 **CeAD incidence trends + recurrent stroke risk**  
 *Neurology* (2025) • PubMed: 40173376
 :::
