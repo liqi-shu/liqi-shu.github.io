@@ -1,19 +1,197 @@
 ---
 title: "Publications"
+subtitle: "Selected completed work in stroke prediction, cerebrovascular outcomes, clinical AI, and recovery."
 ---
 
-## Selected (recent)
+::: {.page-intro}
+This selection highlights peer-reviewed work with a short statement of what each study contributed. Ongoing projects are not included. For the continuously updated record, visit [Google Scholar](https://scholar.google.com/citations?user=uFmbVxEAAAAJ&hl=en).
+:::
 
-- **Shu L**, Aziz YN, de Havenon A, Messe SR, Nguyen TN, Sur NB, … Yaghi S. Perioperative Stroke: Mechanisms, Risk Stratification, and Management. **Stroke** (2025). PubMed: 40444359.
-- **Shu L**, **Lee E**, Field TS, Guo X, Henninger N, Keser Z, … Yaghi S. Intravenous Thrombolysis in Cervical Artery Dissection–Related Stroke: A Nationwide Study. **J Am Heart Assoc** (2025). PubMed: 39968775.
-- **Shu L**, **Strelecky L**, de Havenon A, Nguyen TN, Henninger N, Keser Z, … Yaghi S. Incidence Trends and Risk of Recurrent Stroke of Cervical Artery Dissections in the US (2005–2019). **Neurology** (2025). PubMed: 40173376.
-- Lindgren E*, **Shu L***, Simaan N*, … Zuurbier SM. Clinical score to predict epilepsy after CVT (DIAS³). **JAMA Neurology** (2024). PubMed: 39432281.
-- **Shu L**, **Jack N**, de Havenon A, … Yaghi S. Risk factors for MACE and bleeding in AF patients undergoing surgery (BRIDGE trial insights). **J Stroke Cerebrovasc Dis** (2024).
-- **Shu L**, Jiang W, Xiao H, Henninger N, Nguyen T, Siegler J, … Yaghi S. Perioperative Acute Ischemic Stroke in Patients with Atrial Fibrillation. **Ann Neurol** (2023). PubMed: 37183768.
-- **Shu L**, de Havenon A, Liberman AL, Henninger N, … Yaghi S. Trends in VTE readmission after AIS and ICH. **J Stroke** (2023). PubMed: 36592970.
-- **Shu L**, Bakradze E, Omran SS, … Yaghi S. Predictors of recurrent venous thrombosis after CVT (ACTION-CVT). **Neurology** (2022). PubMed: 36123126.
-- Yu G, Yang Y, Wang X, … **Shu L**. Adversarial active learning for medical concept identification and annotation inconsistency. **J Biomed Inform** (2020). PubMed: 32687985.
+::: {.pub-page-list}
+::: {.pub-entry}
+::: {.pub-year}
+2026
+:::
+::: {.pub-copy}
+## Development and External Validation of an EHR-Derived Model for 30-Day Periprocedural Ischemic Stroke
+**Shu L**, Furie KL, Garcia Guarniz AL, de Havenon A, Khan F, … Wu M, Zheng HB, Yaghi S. *Journal of the American Heart Association*. [PubMed 42261949](https://pubmed.ncbi.nlm.nih.gov/42261949/) · [Open calculator](https://liqi-shu.github.io/peri-procedural-stroke-calc/) · [Source code](https://github.com/liqi-shu/peri-procedural-stroke-calc)
 
-## Full list
+::: {.pub-finding}
+Developed across 255,850 procedures and externally validated across 189,095 procedures; the locked model achieved an AUC of 0.86 in external validation.
+:::
+:::
+:::
 
-For an always-updated complete full list, see [Google Scholar](https://scholar.google.com/citations?user=uFmbVxEAAAAJ&hl=en){.link-muted}.
+::: {.pub-entry}
+::: {.pub-year}
+2026
+:::
+::: {.pub-copy}
+## Large Language Models for Accurate Medical Chart Abstraction in Stroke
+Zhong Z, Porto CM, Hong D, … **Shu L**, Baird G, Jayaraman M, Yaghi S, Jiao Z, Wolman DN. *American Journal of Neuroradiology*. [PubMed 41720514](https://pubmed.ncbi.nlm.nih.gov/41720514/)
+
+::: {.pub-finding}
+Evaluated 22 open-source language models on 2,416 thrombectomy reports; the best model reached 94.8% overall extraction accuracy.
+:::
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-year}
+2025
+:::
+::: {.pub-copy}
+## Perioperative Stroke: Mechanisms, Risk Stratification, and Management
+**Shu L**, Aziz YN, de Havenon A, Messe SR, Nguyen TN, Sur NB, … Yaghi S. *Stroke*. [PubMed 40444359](https://pubmed.ncbi.nlm.nih.gov/40444359/)
+
+::: {.pub-finding}
+Synthesizes mechanisms, perioperative risk assessment, prevention, recognition, and management across surgical settings.
+:::
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-year}
+2025
+:::
+::: {.pub-copy}
+## Intravenous Thrombolysis in Cervical Artery Dissection–Related Stroke
+**Shu L**, **Lee E**, Field TS, Guo X, Henninger N, Keser Z, … Yaghi S. *Journal of the American Heart Association*. [PubMed 39968775](https://pubmed.ncbi.nlm.nih.gov/39968775/)
+
+::: {.pub-finding}
+In a nationwide analysis, thrombolysis was associated with better odds of home discharge without significantly higher intracerebral hemorrhage or in-hospital death.
+:::
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-year}
+2025
+:::
+::: {.pub-copy}
+## Incidence Trends and Risk of Recurrent Stroke of Cervical Artery Dissections in the US
+**Shu L**, **Strelecky L**, de Havenon A, Nguyen TN, Henninger N, Keser Z, … Yaghi S. *Neurology*. [PubMed 40173376](https://pubmed.ncbi.nlm.nih.gov/40173376/)
+
+::: {.pub-finding}
+Characterized US incidence trends and recurrent-stroke risk after cervical artery dissection using national longitudinal data.
+:::
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-year}
+2024
+:::
+::: {.pub-copy}
+## Clinical score to predict epilepsy after cerebral venous thrombosis (DIAS³)
+Lindgren E, **Shu L**, Simaan N, … Zuurbier SM. *JAMA Neurology*. Co-equal contributors. [PubMed 39432281](https://pubmed.ncbi.nlm.nih.gov/39432281/) · [Open DIAS³ calculator](https://cerebralvenousthrombosis.com/professionals/dias-3/)
+
+::: {.pub-finding}
+Developed a six-variable score and externally validated individualized 1- and 3-year epilepsy-risk estimates in two independent cohorts.
+:::
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-year}
+2024
+:::
+::: {.pub-copy}
+## Major cardiovascular events and bleeding in atrial fibrillation patients undergoing surgery
+**Shu L**, **Jack N**, de Havenon A, … Yaghi S. *Journal of Stroke and Cerebrovascular Diseases*. [PubMed 38944363](https://pubmed.ncbi.nlm.nih.gov/38944363/)
+
+::: {.pub-finding}
+Used BRIDGE trial data to identify factors associated with perioperative major cardiovascular events and bleeding in patients with atrial fibrillation.
+:::
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-year}
+2023
+:::
+::: {.pub-copy}
+## Perioperative Acute Ischemic Stroke in Patients with Atrial Fibrillation
+**Shu L**, Jiang W, Xiao H, Henninger N, Nguyen T, Siegler J, … Yaghi S. *Annals of Neurology*. [PubMed 37183768](https://pubmed.ncbi.nlm.nih.gov/37183768/)
+
+::: {.pub-finding}
+Analyzed more than one million elective procedures and developed a perioperative stroke score that outperformed CHA₂DS₂-VASc alone.
+:::
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-year}
+2023
+:::
+::: {.pub-copy}
+## Trends in venous thromboembolism readmission after ischemic and hemorrhagic stroke
+**Shu L**, de Havenon A, Liberman AL, Henninger N, … Yaghi S. *Journal of Stroke*. [PubMed 36592970](https://pubmed.ncbi.nlm.nih.gov/36592970/)
+
+::: {.pub-finding}
+Across nearly 1.46 million stroke admissions, venous-thromboembolism readmission risk was highest during the first four to six weeks and substantially higher after intracerebral hemorrhage.
+:::
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-year}
+2022
+:::
+::: {.pub-copy}
+## Predictors of recurrent venous thrombosis after cerebral venous thrombosis
+**Shu L**, Bakradze E, Omran SS, … Yaghi S. *Neurology*. [PubMed 36123126](https://pubmed.ncbi.nlm.nih.gov/36123126/)
+
+::: {.pub-finding}
+Identified clinical factors associated with recurrent venous thrombosis in an international ACTION-CVT cohort.
+:::
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-year}
+2022
+:::
+::: {.pub-copy}
+## Direct Oral Anticoagulants Versus Warfarin in Cerebral Venous Thrombosis (ACTION-CVT)
+Yaghi S, **Shu L**, Bakradze E, … Furie K. *Stroke*. [PubMed 35143325](https://pubmed.ncbi.nlm.nih.gov/35143325/)
+
+::: {.pub-finding}
+Found similar effectiveness between direct oral anticoagulants and warfarin, with a lower adjusted risk of major hemorrhage in the DOAC group.
+:::
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-year}
+2020
+:::
+::: {.pub-copy}
+## Improving Accelerometry-Based Measurement of Functional Upper-Extremity Use After Stroke
+Lum PS, **Shu L**, Bochniewicz EM, Tran T, Chang LC, Barth J, Dromerick AW. *Neurorehabilitation and Neural Repair*. [PubMed 33150830](https://pubmed.ncbi.nlm.nih.gov/33150830/)
+
+::: {.pub-finding}
+The best intrasubject machine-learning model detected functional paretic-arm activity with 92.6% accuracy and substantially outperformed the conventional counts-ratio method.
+:::
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-year}
+2020
+:::
+::: {.pub-copy}
+## Adversarial active learning for medical concept identification and annotation inconsistency
+Yu G, Yang Y, Wang X, … **Shu L**. *Journal of Biomedical Informatics*. [PubMed 32687985](https://pubmed.ncbi.nlm.nih.gov/32687985/)
+
+::: {.pub-finding}
+Used adversarial active learning to improve medical-concept recognition and detect inconsistent annotations in biomedical datasets.
+:::
+:::
+:::
+:::
+
+::: {.scholar-cta}
+## Looking for the complete record?
+[View all publications on Google Scholar →](https://scholar.google.com/citations?user=uFmbVxEAAAAJ&hl=en)
+:::

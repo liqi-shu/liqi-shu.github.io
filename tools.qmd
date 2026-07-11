@@ -1,0 +1,106 @@
+---
+title: "Tools & Resources"
+subtitle: "Public, evidence-based resources built from completed research."
+---
+
+::: {.page-intro}
+These resources translate peer-reviewed work into practical, accessible formats for clinicians and researchers. Each tool links to its validation study so users can review the methods, intended population, and limitations.
+:::
+
+::: {.tool-disclaimer}
+**Important:** These tools provide decision support and educational information. They do not diagnose disease, recommend treatment, or replace clinical judgment. Confirm applicability and limitations in the linked publication before clinical use.
+:::
+
+::: {.tools-grid}
+::: {.tool-card .tool-card-primary}
+::: {.tool-badge}
+Live calculator · Open source
+:::
+
+## Brown Peri-procedural Stroke Risk Assessment Tool
+
+Estimates the probability of ischemic stroke within 30 days of a procedure using age, relevant clinical history, procedure setting, and procedure category.
+
+::: {.tool-evidence}
+::: {.tool-stat}
+≈445,000
+:::
+procedures across three hospitals · external-validation AUC **0.86**
+:::
+
+**Intended use:** Pre-procedural counseling, risk stratification, shared decision-making, and targeted prevention planning.
+
+::: {.tool-actions}
+[Open calculator ↗](https://liqi-shu.github.io/peri-procedural-stroke-calc/){.btn .btn-primary} [Read validation study](https://pubmed.ncbi.nlm.nih.gov/42261949/){.btn .btn-outline-primary}
+:::
+
+[View the source code and locked model →](https://github.com/liqi-shu/peri-procedural-stroke-calc){.tool-source}
+:::
+
+::: {.tool-card}
+::: {.tool-badge}
+Live calculator · International validation
+:::
+
+## DIAS³ Post-CVT Epilepsy Risk Calculator
+
+Estimates individualized 1- and 3-year epilepsy risk after cerebral venous thrombosis using six acute-phase clinical and imaging variables.
+
+::: {.tool-evidence}
+::: {.tool-stat}
+3 cohorts
+:::
+developed in 1,128 patients · externally validated in two independent cohorts
+:::
+
+**Intended use:** Patient counseling, personalized follow-up, and support for decisions about antiseizure care and future research.
+
+::: {.tool-actions}
+[Open DIAS³ calculator ↗](https://cerebralvenousthrombosis.com/professionals/dias-3/){.btn .btn-primary} [Read validation study](https://pubmed.ncbi.nlm.nih.gov/39432281/){.btn .btn-outline-primary}
+:::
+
+::: {.tool-caution}
+The CVT Consortium notes that this calculator is not CE marked and should be used with appropriate clinical caution.
+:::
+:::
+:::
+
+## Open research resources
+
+::: {.resource-grid}
+::: {.resource-card}
+::: {.resource-icon}
+01
+:::
+### Open-access model paper
+Full methods, model development, validation, limitations, and supplementary material for the peri-procedural stroke calculator.
+
+[Read in PubMed Central →](https://pmc.ncbi.nlm.nih.gov/articles/PMC13323158/)
+:::
+
+::: {.resource-card}
+::: {.resource-icon}
+02
+:::
+### Stroke-recovery methods
+Open-access study comparing machine learning with conventional accelerometry for measuring functional arm use after stroke.
+
+[Read in PubMed Central →](https://pmc.ncbi.nlm.nih.gov/articles/PMC7704838/)
+:::
+
+::: {.resource-card}
+::: {.resource-icon}
+03
+:::
+### Research profiles
+Browse the complete and continuously updated publication record, persistent researcher identifier, and public code.
+
+[Google Scholar](https://scholar.google.com/citations?user=uFmbVxEAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-9784-8475) · [GitHub](https://github.com/liqi-shu)
+:::
+:::
+
+::: {.tools-contact}
+## Questions about a tool?
+
+For research questions, implementation feedback, or reproducibility inquiries, contact [shul@pitt.edu](mailto:shul@pitt.edu). Please do not send protected health information or requests for individual medical advice.
+:::

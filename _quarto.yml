@@ -1,28 +1,44 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Shu Lab"
+  site-url: "https://liqi-shu.github.io"
+  description: "Vascular neurology and stroke research using real-world clinical data, multicenter registries, clinical AI, and recovery analytics."
+  open-graph: true
+  twitter-card: true
+  favicon: images/favicon.svg
   navbar:
+    title: "Shu Lab"
+    background: light
+    pinned: true
+    collapse-below: lg
     left:
-      - href: index.qmd
-        text: Home
       - href: research.qmd
         text: Research
+      - href: tools.qmd
+        text: Tools
       - href: people.qmd
         text: People
+      - href: about.qmd
+        text: About
       - href: publications.qmd
         text: Publications
       - href: join.qmd
-        text: Join
+        text: Join us
     right:
       - icon: envelope
-        href: mailto:shuliqi@gmail.com
+        aria-label: Email Liqi Shu
+        href: mailto:shul@pitt.edu
       - icon: mortarboard
+        aria-label: Google Scholar
         href: https://scholar.google.com/citations?user=uFmbVxEAAAAJ&hl=en
   page-footer:
-    left: "© 2026 Shu Lab • UPMC Department of Neurology"
-    right: "[Join/Contact](join.qmd) • Built with Quarto + GitHub Pages"
+    border: false
+    left: "© 2026 Shu Lab · UPMC Department of Neurology"
+    center: "Evidence · Translation · Recovery"
+    right: "[Contact](join.qmd)"
 
 format:
   html:
@@ -30,3 +46,6 @@ format:
     css: styles.css
     toc: false
     lightbox: true
+    smooth-scroll: true
+    anchor-sections: false
+    link-external-newwindow: true

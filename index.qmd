@@ -3,81 +3,268 @@ title: ""
 page-layout: full
 ---
 
-::: {.hero}
-::: {.hero-inner}
-# Shu Lab
-
-::: {.hero-lede}
-We build **clinically grounded, data-driven tools** to improve **stroke prevention, neuroendovascular care, and neurorecovery**—connecting large-scale EHR evidence, imaging, and translational insights to decisions that matter at the bedside.
-
-Our work spans national administrative datasets (e.g., NIS/NRD), multicenter registries, and imaging/AI pipelines, with a bias toward **deployable clinical utility** (risk stratification, prognostication, and workflow tools).
+::: {.home-hero}
+::: {.home-hero-copy}
+::: {.eyebrow}
+Stroke research · NeuroAI · Clinical translation
 :::
 
+# Better stroke decisions, from data to bedside.
+
+We study stroke across the care continuum—using real-world clinical data, neuroimaging, and computational methods to turn complex evidence into decisions clinicians can use.
+
+::: {.hero-actions}
+[Explore our research](research.qmd){.btn .btn-primary} [Meet the team](people.qmd){.btn .btn-outline-primary}
 :::
-:::
 
-::: {.below-hero}
-::: {.container-narrow}
-
-::: {.panel}
-
-## [Focus areas](research.qmd)
-
-::: {.columns}
-::: {.column width="25%"}
-::: {.focus-chip}
-**Peri-procedural stroke**  
-Risk stratification and prevention around procedures and EVT workflows.
+::: {.hero-proof}
+**Our approach**  
+Large-scale clinical evidence, imaging, and translational analytics—designed for practical use.
 :::
 :::
 
-::: {.column width="25%"}
-::: {.focus-chip}
-**Cerebrovascular epidemiology**  
-Nationwide and multicenter evidence (NIS/NRD, registries).
+:::: {.home-hero-visual}
+![](images/group-2.jpg){fig-alt="Members of the Shu Lab gathering together"}
+
+::: {.visual-note}
+::: {.note-mark}
+↗
+:::
+**Human questions. Rigorous evidence.**  
+Collaborative research shaped by the realities of clinical care.
+:::
+::::
+:::
+
+::: {.section-shell .intro-band}
+::: {.section-heading}
+::: {.eyebrow}
+What we study
+:::
+
+## One lab, four connected lines of inquiry
+
+We work across the stroke-care continuum, linking population evidence to individual decisions and recovery.
+:::
+
+::: {.focus-grid}
+::: {.focus-card}
+::: {.card-number}
+01
+:::
+### Prevention & outcomes
+Risk prediction and prevention around surgery and neuroendovascular care, including an externally validated model for 30-day stroke risk.
+
+[See the research →](research.qmd)
+:::
+
+::: {.focus-card}
+::: {.card-number}
+02
+:::
+### Cerebrovascular evidence
+Nationwide datasets and international registries that clarify treatment, recurrence, and long-term outcomes after arterial and venous stroke.
+
+[See the research →](research.qmd)
+:::
+
+::: {.focus-card}
+::: {.card-number}
+03
+:::
+### Imaging & NeuroAI
+Clinical AI for imaging and unstructured health records, including automated abstraction of thrombectomy reports.
+
+[See the research →](research.qmd)
+:::
+
+::: {.focus-card}
+::: {.card-number}
+04
+:::
+### Neurorecovery
+Wearable sensing and machine learning to measure how stroke survivors use the affected arm in everyday activity.
+
+[See the research →](research.qmd)
+:::
 :::
 :::
 
-::: {.column width="25%"}
-::: {.focus-chip}
-**Imaging + computer vision**  
-Neuroimaging phenotypes and practical AI pipelines.
+::: {.evidence-band}
+::: {.section-heading}
+::: {.eyebrow .eyebrow-light}
+Completed work · measurable results
+:::
+
+## What the research has produced
+
+These are findings from completed, peer-reviewed studies—not descriptions of work in progress.
+:::
+
+::: {.evidence-grid}
+::: {.evidence-card}
+::: {.evidence-stat}
+≈445K
+:::
+**procedures across three hospitals**
+
+An EHR-derived model predicted 30-day periprocedural ischemic stroke with an external-validation AUC of **0.86**.
+
+[Read the 2026 JAHA paper →](https://doi.org/10.1161/JAHA.125.049372)
+:::
+
+::: {.evidence-card}
+::: {.evidence-stat}
+94.8%
+:::
+**best extraction accuracy**
+
+Open-source language models converted **2,416 thrombectomy reports** into structured stroke-registry variables.
+
+[Read the 2026 AJNR paper →](https://pubmed.ncbi.nlm.nih.gov/41720514/)
+:::
+
+::: {.evidence-card}
+::: {.evidence-stat}
+3 cohorts
+:::
+**DIAS³ development and validation**
+
+A six-variable clinical score estimated individualized 1- and 3-year epilepsy risk after cerebral venous thrombosis.
+
+[Read the 2024 JAMA Neurology paper →](https://pubmed.ncbi.nlm.nih.gov/39432281/)
+:::
+
+::: {.evidence-card}
+::: {.evidence-stat}
+92.6%
+:::
+**intrasubject model accuracy**
+
+Machine learning distinguished functional from nonfunctional arm movement after stroke using wrist accelerometry.
+
+[Read the rehabilitation study →](https://doi.org/10.1177/1545968320962483)
+:::
 :::
 :::
 
-::: {.column width="25%"}
-::: {.focus-chip}
-**Neurorecovery analytics**  
-Kinematics and neuroanatomy-informed recovery models.
+::: {.tools-preview-band}
+::: {.tools-preview-heading}
+::: {.eyebrow}
+Use the research
+:::
+## Evidence you can open and explore
+
+Two completed studies are available as public clinical decision-support tools.
+
+[View all tools & resources](tools.qmd){.quiet-link}
+:::
+
+::: {.tools-preview-grid}
+::: {.tool-preview-card}
+::: {.tool-badge}
+30-day procedural risk
+:::
+### Peri-procedural Stroke Risk Calculator
+Estimate individualized 30-day ischemic-stroke risk using the externally validated Brown model.
+
+[Open calculator ↗](https://liqi-shu.github.io/peri-procedural-stroke-calc/){.btn .btn-primary}
+:::
+
+::: {.tool-preview-card}
+::: {.tool-badge}
+1- and 3-year risk
+:::
+### DIAS³ Epilepsy Risk Calculator
+Estimate epilepsy risk after cerebral venous thrombosis using the internationally validated DIAS³ score.
+
+[Open calculator ↗](https://cerebralvenousthrombosis.com/professionals/dias-3/){.btn .btn-primary}
+:::
+:::
+:::
+
+::: {.feature-band}
+::: {.feature-copy}
+::: {.eyebrow .eyebrow-light}
+How we work
+:::
+
+## Built for useful answers
+
+We pair methodological rigor with a bias toward deployable clinical value—risk stratification, prognostication, and workflow tools that can improve real decisions.
+
+[Our research approach](research.qmd){.text-link-light}
+:::
+
+::: {.feature-pillars}
+::: {.pillar}
+**01 · Grounded**  
+Questions begin with unmet needs in stroke care.
+:::
+::: {.pillar}
+**02 · Collaborative**  
+Clinicians, statisticians, engineers, and trainees work together.
+:::
+::: {.pillar}
+**03 · Translational**  
+Outputs are designed to move from analysis toward action.
+:::
+:::
+:::
+
+::: {.section-shell .publication-preview}
+::: {.section-heading .heading-row}
+::: {}
+::: {.eyebrow}
+Selected work
+:::
+## Recent publication highlights
+:::
+
+[View all publications](publications.qmd){.quiet-link}
+:::
+
+::: {.publication-list}
+::: {.publication-row}
+::: {.pub-year}
+2026
+:::
+::: {.pub-copy}
+### EHR-derived model for 30-day periprocedural ischemic stroke
+*Journal of the American Heart Association* · [DOI 10.1161/JAHA.125.049372](https://doi.org/10.1161/JAHA.125.049372)
+:::
+:::
+
+::: {.publication-row}
+::: {.pub-year}
+2026
+:::
+::: {.pub-copy}
+### Large language models for scalable stroke chart abstraction
+*American Journal of Neuroradiology* · [PubMed 41720514](https://pubmed.ncbi.nlm.nih.gov/41720514/)
+:::
+:::
+
+::: {.publication-row}
+::: {.pub-year}
+2024
+:::
+::: {.pub-copy}
+### DIAS³ clinical score for epilepsy after cerebral venous thrombosis
+*JAMA Neurology* · [PubMed 39432281](https://pubmed.ncbi.nlm.nih.gov/39432281/)
 :::
 :::
 :::
 :::
 
-## [Recent publication highlights](publications.qmd)
-
-::: {.columns}
-::: {.column width="33%"}
-::: {.focus-chip}
-**Perioperative Stroke**  
-*Stroke* (2025) • PubMed: 40444359
+::: {.join-ribbon}
+::: {.join-copy}
+::: {.eyebrow}
+Work with us
 :::
-:::
-
-::: {.column width="33%"}
-::: {.focus-chip}
-**IV thrombolysis in CeAD-related AIS**  
-*JAHA* (2025) • PubMed: 39968775
-:::
+## Curious, rigorous, and clinically useful.
+We welcome motivated trainees and collaborators who want to build better evidence for stroke care.
 :::
 
-::: {.column width="33%"}
-::: {.focus-chip}
-**CeAD incidence trends + recurrent stroke risk**  
-*Neurology* (2025) • PubMed: 40173376
-:::
-:::
-:::
-:::
-:::
+[Explore opportunities](join.qmd){.btn .btn-primary}
 :::
