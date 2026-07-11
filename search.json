@@ -1,352 +1,254 @@
 [
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "Different disciplines, shared purpose.\nWe learn from one another and build work that is stronger because it is collaborative."
-  },
-  {
     "objectID": "people.html#principal-investigator",
     "href": "people.html#principal-investigator",
     "title": "People",
     "section": "Principal investigator",
-    "text": "Principal investigator\n\n\n\n\n\n\nLab director\n\n\nLiqi Shu, MD\nVascular Neurologist · UPMC Stroke Institute\nCore Faculty · Pitt Cerebrovascular Medicine\nAdjunct Instructor in Neurology · Brown University\nDr. Shu combines vascular neurology, neurointerventional training, and computational methods to improve stroke-risk prediction, clinical data extraction, and recovery measurement. His work draws on EHR data, international registries, imaging, EEG, motion capture, and wearable sensors.\nEmail Dr. Shu · Google Scholar · ORCID\n\n\n\n\n\n\nTraining\n\nNeurology residency and vascular neurology fellowship\nRhode Island Hospital / Brown University\n\n\n\nResearch fellowship\n\n2024–25 NIH StrokeNet SPIRIT Fellow\nCompleted computational projects in stroke risk and rehabilitation\n\n\n\nEducation\n\nMD, George Washington University · 2019\nBS, Computer Science & Biology, Emory University · 2015"
+    "text": "Principal investigator\n\n\n\n\n\n\nLab director\n\n\nLiqi Shu, MD\nVascular Neurologist · UPMC Stroke Institute\nCore Faculty · Pitt Cerebrovascular Medicine\nAdjunct Instructor in Neurology · Brown University\nDr. Shu is a vascular neurologist with training in neurointervention, computer science, and clinical research. He develops practical approaches to stroke-risk prediction, clinical-data extraction, and recovery measurement using real-world data, registries, imaging, physiologic signals, and wearable sensors. He completed neurology residency and vascular neurology fellowship at Brown and an NIH StrokeNet SPIRIT research fellowship.\nEmail · Google Scholar · ORCID"
   },
   {
     "objectID": "people.html#liqi-shu-md",
     "href": "people.html#liqi-shu-md",
     "title": "People",
     "section": "Liqi Shu, MD",
-    "text": "Liqi Shu, MD\nVascular Neurologist · UPMC Stroke Institute\nCore Faculty · Pitt Cerebrovascular Medicine\nAdjunct Instructor in Neurology · Brown University\nDr. Shu combines vascular neurology, neurointerventional training, and computational methods to improve stroke-risk prediction, clinical data extraction, and recovery measurement. His work draws on EHR data, international registries, imaging, EEG, motion capture, and wearable sensors.\nEmail Dr. Shu · Google Scholar · ORCID"
+    "text": "Liqi Shu, MD\nVascular Neurologist · UPMC Stroke Institute\nCore Faculty · Pitt Cerebrovascular Medicine\nAdjunct Instructor in Neurology · Brown University\nDr. Shu is a vascular neurologist with training in neurointervention, computer science, and clinical research. He develops practical approaches to stroke-risk prediction, clinical-data extraction, and recovery measurement using real-world data, registries, imaging, physiologic signals, and wearable sensors. He completed neurology residency and vascular neurology fellowship at Brown and an NIH StrokeNet SPIRIT research fellowship.\nEmail · Google Scholar · ORCID"
   },
   {
     "objectID": "people.html#key-collaborators",
     "href": "people.html#key-collaborators",
     "title": "People",
     "section": "Key collaborators",
-    "text": "Key collaborators\n\n\n\nRH\n\n\nRebecca Hubbard, PhD\nBiostatistics & real-world evidence\nBrown University\nStatistical methods for EHR and claims data under measurement error, missingness, and complex observation processes.\n\n\n\n\nJL\n\n\nJonghwan Lee, PhD\nNeural engineering & imaging\nBrown University\nBiomedical optics, photonics, neural engineering, and AI for next-generation imaging and neurotechnology.\n\n\n\n\nZJ\n\n\nZhicheng Jiao, PhD\nRadiology AI & computer vision\nBrown University\nRobust medical-image analysis and clinically deployable computer-vision pipelines.\n\n\n\n\nTX\n\n\nTiffany Xiao, PhD\nEconomics & causal inference\nUC Santa Barbara\nStudy design and causal inference for real-world questions in stroke and outcomes research."
+    "text": "Key collaborators\n\n\nRebecca Hubbard, PhD\nBiostatistics and real-world evidence · Brown University\n\n\nJonghwan Lee, PhD\nNeural engineering and imaging · Brown University\n\n\nZhicheng Jiao, PhD\nRadiology AI and computer vision · Brown University\n\n\nTiffany Xiao, PhD\nEconomics and causal inference · UC Santa Barbara"
   },
   {
-    "objectID": "people.html#students-trainees",
-    "href": "people.html#students-trainees",
+    "objectID": "people.html#students-and-trainees",
+    "href": "people.html#students-and-trainees",
     "title": "People",
-    "section": "Students & trainees",
-    "text": "Students & trainees\n\n\nElizabeth Lee\nBrown PLME\nFirst author: national dissection study\n\n\nLukas Strelecky\nBrown University · Undergraduate\nCoauthor: cervical-dissection incidence study\n\n\nJunyue Ma\nBrown University → FlexMed, Mount Sinai\n\n\nHenry Zheng\nBrown University · Undergraduate\nCoauthor: validated peri-procedural risk model\n\n\nXilin Wang\nNortheastern University · Computer Science PhD\n\n\nLevi Neuwirth\nBrown University · Undergraduate\n\n\nConner Lee\nBowdoin College\n\n\nNaomi Jack\nBrown University · Undergraduate\nCoauthor: perioperative AF outcomes study\n\n\nDavid Marimekala\nBrown University · Undergraduate\n\n\nMoxin Wu\nAffiliated Hospital of Jiujiang University\nCoauthor: validated peri-procedural risk model\n\n\n\n\nMentorship in practice\n\n\nSelected trainee-led and trainee-coauthored work\n\n\nElizabeth Lee\nFirst author of a national study comparing carotid and vertebral dissections, with Lukas Strelecky as a coauthor. View publication →\n\n\nLukas Strelecky\nCoauthor of national work on cervical-dissection incidence trends and recurrent stroke. View publication →\n\n\nHenry Zheng & Moxin Wu\nCoauthors of the externally validated model and public calculator for 30-day peri-procedural stroke risk. View publication →\n\n\nNaomi Jack\nCoauthor of completed work on cardiovascular and bleeding outcomes among surgical patients with atrial fibrillation. View publication →"
-  },
-  {
-    "objectID": "people.html#selected-trainee-led-and-trainee-coauthored-work",
-    "href": "people.html#selected-trainee-led-and-trainee-coauthored-work",
-    "title": "People",
-    "section": "Selected trainee-led and trainee-coauthored work",
-    "text": "Selected trainee-led and trainee-coauthored work\n\n\nElizabeth Lee\nFirst author of a national study comparing carotid and vertebral dissections, with Lukas Strelecky as a coauthor. View publication →\n\n\nLukas Strelecky\nCoauthor of national work on cervical-dissection incidence trends and recurrent stroke. View publication →\n\n\nHenry Zheng & Moxin Wu\nCoauthors of the externally validated model and public calculator for 30-day peri-procedural stroke risk. View publication →\n\n\nNaomi Jack\nCoauthor of completed work on cardiovascular and bleeding outcomes among surgical patients with atrial fibrillation. View publication →"
+    "section": "Students and trainees",
+    "text": "Students and trainees\n\n\nElizabeth Lee\nBrown PLME\n\n\nLukas Strelecky\nBrown University\n\n\nJunyue Ma\nBrown University · FlexMed, Mount Sinai\n\n\nHenry Zheng\nBrown University\n\n\nXilin Wang\nNortheastern University\n\n\nLevi Neuwirth\nBrown University\n\n\nConner Lee\nBowdoin College\n\n\nNaomi Jack\nBrown University\n\n\nDavid Marimekala\nBrown University\n\n\nMoxin Wu\nAffiliated Hospital of Jiujiang University"
   },
   {
     "objectID": "people.html#alumni",
     "href": "people.html#alumni",
     "title": "People",
     "section": "Alumni",
-    "text": "Alumni\n\nFavour Akpokiere · Brown University · STOP-CAD thrombolysis coauthor\nChristopher Chang · Brown University · stroke-recurrence coauthor\nJohn Huang · Brown University\nEileen Wu · Brown University\nAnita Zahiri · Brown PLME\n\n\n\n\nJoin the team\n\n\nInterested in clinically useful stroke research?\nWe welcome thoughtful trainees and collaborators across medicine, data science, and engineering.\n\n\nView opportunities"
+    "text": "Alumni\n\nFavour Akpokiere · Brown University\nChristopher Chang · Brown University\nJohn Huang · Brown University\nEileen Wu · Brown University\nAnita Zahiri · Brown PLME\n\n\n\n\nJoin the team\n\n\nWork with us\nWe welcome trainees and collaborators across medicine, data science, and engineering.\n\n\nView opportunities"
   },
   {
-    "objectID": "people.html#interested-in-clinically-useful-stroke-research",
-    "href": "people.html#interested-in-clinically-useful-stroke-research",
+    "objectID": "people.html#work-with-us",
+    "href": "people.html#work-with-us",
     "title": "People",
-    "section": "Interested in clinically useful stroke research?",
-    "text": "Interested in clinically useful stroke research?\nWe welcome thoughtful trainees and collaborators across medicine, data science, and engineering."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "This selection highlights peer-reviewed work with a short statement of what each study contributed. Ongoing projects are not included. For the continuously updated record, visit Google Scholar."
-  },
-  {
-    "objectID": "publications.html#development-and-external-validation-of-an-ehr-derived-model-for-30-day-periprocedural-ischemic-stroke",
-    "href": "publications.html#development-and-external-validation-of-an-ehr-derived-model-for-30-day-periprocedural-ischemic-stroke",
-    "title": "Publications",
-    "section": "Development and External Validation of an EHR-Derived Model for 30-Day Periprocedural Ischemic Stroke",
-    "text": "Development and External Validation of an EHR-Derived Model for 30-Day Periprocedural Ischemic Stroke\nShu L, Furie KL, Garcia Guarniz AL, de Havenon A, Khan F, … Wu M, Zheng HB, Yaghi S. Journal of the American Heart Association. PubMed 42261949 · Open calculator · Source code\n\nDeveloped across 255,850 procedures and externally validated across 189,095 procedures; the locked model achieved an AUC of 0.86 in external validation."
-  },
-  {
-    "objectID": "publications.html#large-language-models-for-accurate-medical-chart-abstraction-in-stroke",
-    "href": "publications.html#large-language-models-for-accurate-medical-chart-abstraction-in-stroke",
-    "title": "Publications",
-    "section": "Large Language Models for Accurate Medical Chart Abstraction in Stroke",
-    "text": "Large Language Models for Accurate Medical Chart Abstraction in Stroke\nZhong Z, Porto CM, Hong D, … Shu L, Baird G, Jayaraman M, Yaghi S, Jiao Z, Wolman DN. American Journal of Neuroradiology. PubMed 41720514\n\nEvaluated 22 open-source language models on 2,416 thrombectomy reports; the best model reached 94.8% overall extraction accuracy."
-  },
-  {
-    "objectID": "publications.html#perioperative-stroke-mechanisms-risk-stratification-and-management",
-    "href": "publications.html#perioperative-stroke-mechanisms-risk-stratification-and-management",
-    "title": "Publications",
-    "section": "Perioperative Stroke: Mechanisms, Risk Stratification, and Management",
-    "text": "Perioperative Stroke: Mechanisms, Risk Stratification, and Management\nShu L, Aziz YN, de Havenon A, Messe SR, Nguyen TN, Sur NB, … Yaghi S. Stroke. PubMed 40444359\n\nSynthesizes mechanisms, perioperative risk assessment, prevention, recognition, and management across surgical settings."
-  },
-  {
-    "objectID": "publications.html#intravenous-thrombolysis-in-cervical-artery-dissectionrelated-stroke",
-    "href": "publications.html#intravenous-thrombolysis-in-cervical-artery-dissectionrelated-stroke",
-    "title": "Publications",
-    "section": "Intravenous Thrombolysis in Cervical Artery Dissection–Related Stroke",
-    "text": "Intravenous Thrombolysis in Cervical Artery Dissection–Related Stroke\nShu L, Lee E, Field TS, Guo X, Henninger N, Keser Z, … Yaghi S. Journal of the American Heart Association. PubMed 39968775\n\nIn a nationwide analysis, thrombolysis was associated with better odds of home discharge without significantly higher intracerebral hemorrhage or in-hospital death."
-  },
-  {
-    "objectID": "publications.html#incidence-trends-and-risk-of-recurrent-stroke-of-cervical-artery-dissections-in-the-us",
-    "href": "publications.html#incidence-trends-and-risk-of-recurrent-stroke-of-cervical-artery-dissections-in-the-us",
-    "title": "Publications",
-    "section": "Incidence Trends and Risk of Recurrent Stroke of Cervical Artery Dissections in the US",
-    "text": "Incidence Trends and Risk of Recurrent Stroke of Cervical Artery Dissections in the US\nShu L, Strelecky L, de Havenon A, Nguyen TN, Henninger N, Keser Z, … Yaghi S. Neurology. PubMed 40173376\n\nCharacterized US incidence trends and recurrent-stroke risk after cervical artery dissection using national longitudinal data."
-  },
-  {
-    "objectID": "publications.html#clinical-score-to-predict-epilepsy-after-cerebral-venous-thrombosis-dias³",
-    "href": "publications.html#clinical-score-to-predict-epilepsy-after-cerebral-venous-thrombosis-dias³",
-    "title": "Publications",
-    "section": "Clinical score to predict epilepsy after cerebral venous thrombosis (DIAS³)",
-    "text": "Clinical score to predict epilepsy after cerebral venous thrombosis (DIAS³)\nLindgren E, Shu L, Simaan N, … Zuurbier SM. JAMA Neurology. Co-equal contributors. PubMed 39432281 · Open DIAS³ calculator\n\nDeveloped a six-variable score and externally validated individualized 1- and 3-year epilepsy-risk estimates in two independent cohorts."
-  },
-  {
-    "objectID": "publications.html#major-cardiovascular-events-and-bleeding-in-atrial-fibrillation-patients-undergoing-surgery",
-    "href": "publications.html#major-cardiovascular-events-and-bleeding-in-atrial-fibrillation-patients-undergoing-surgery",
-    "title": "Publications",
-    "section": "Major cardiovascular events and bleeding in atrial fibrillation patients undergoing surgery",
-    "text": "Major cardiovascular events and bleeding in atrial fibrillation patients undergoing surgery\nShu L, Jack N, de Havenon A, … Yaghi S. Journal of Stroke and Cerebrovascular Diseases. PubMed 38944363\n\nUsed BRIDGE trial data to identify factors associated with perioperative major cardiovascular events and bleeding in patients with atrial fibrillation."
-  },
-  {
-    "objectID": "publications.html#perioperative-acute-ischemic-stroke-in-patients-with-atrial-fibrillation",
-    "href": "publications.html#perioperative-acute-ischemic-stroke-in-patients-with-atrial-fibrillation",
-    "title": "Publications",
-    "section": "Perioperative Acute Ischemic Stroke in Patients with Atrial Fibrillation",
-    "text": "Perioperative Acute Ischemic Stroke in Patients with Atrial Fibrillation\nShu L, Jiang W, Xiao H, Henninger N, Nguyen T, Siegler J, … Yaghi S. Annals of Neurology. PubMed 37183768\n\nAnalyzed more than one million elective procedures and developed a perioperative stroke score that outperformed CHA₂DS₂-VASc alone."
-  },
-  {
-    "objectID": "publications.html#trends-in-venous-thromboembolism-readmission-after-ischemic-and-hemorrhagic-stroke",
-    "href": "publications.html#trends-in-venous-thromboembolism-readmission-after-ischemic-and-hemorrhagic-stroke",
-    "title": "Publications",
-    "section": "Trends in venous thromboembolism readmission after ischemic and hemorrhagic stroke",
-    "text": "Trends in venous thromboembolism readmission after ischemic and hemorrhagic stroke\nShu L, de Havenon A, Liberman AL, Henninger N, … Yaghi S. Journal of Stroke. PubMed 36592970\n\nAcross nearly 1.46 million stroke admissions, venous-thromboembolism readmission risk was highest during the first four to six weeks and substantially higher after intracerebral hemorrhage."
-  },
-  {
-    "objectID": "publications.html#predictors-of-recurrent-venous-thrombosis-after-cerebral-venous-thrombosis",
-    "href": "publications.html#predictors-of-recurrent-venous-thrombosis-after-cerebral-venous-thrombosis",
-    "title": "Publications",
-    "section": "Predictors of recurrent venous thrombosis after cerebral venous thrombosis",
-    "text": "Predictors of recurrent venous thrombosis after cerebral venous thrombosis\nShu L, Bakradze E, Omran SS, … Yaghi S. Neurology. PubMed 36123126\n\nIdentified clinical factors associated with recurrent venous thrombosis in an international ACTION-CVT cohort."
-  },
-  {
-    "objectID": "publications.html#direct-oral-anticoagulants-versus-warfarin-in-cerebral-venous-thrombosis-action-cvt",
-    "href": "publications.html#direct-oral-anticoagulants-versus-warfarin-in-cerebral-venous-thrombosis-action-cvt",
-    "title": "Publications",
-    "section": "Direct Oral Anticoagulants Versus Warfarin in Cerebral Venous Thrombosis (ACTION-CVT)",
-    "text": "Direct Oral Anticoagulants Versus Warfarin in Cerebral Venous Thrombosis (ACTION-CVT)\nYaghi S, Shu L, Bakradze E, … Furie K. Stroke. PubMed 35143325\n\nFound similar effectiveness between direct oral anticoagulants and warfarin, with a lower adjusted risk of major hemorrhage in the DOAC group."
-  },
-  {
-    "objectID": "publications.html#improving-accelerometry-based-measurement-of-functional-upper-extremity-use-after-stroke",
-    "href": "publications.html#improving-accelerometry-based-measurement-of-functional-upper-extremity-use-after-stroke",
-    "title": "Publications",
-    "section": "Improving Accelerometry-Based Measurement of Functional Upper-Extremity Use After Stroke",
-    "text": "Improving Accelerometry-Based Measurement of Functional Upper-Extremity Use After Stroke\nLum PS, Shu L, Bochniewicz EM, Tran T, Chang LC, Barth J, Dromerick AW. Neurorehabilitation and Neural Repair. PubMed 33150830\n\nThe best intrasubject machine-learning model detected functional paretic-arm activity with 92.6% accuracy and substantially outperformed the conventional counts-ratio method."
-  },
-  {
-    "objectID": "publications.html#adversarial-active-learning-for-medical-concept-identification-and-annotation-inconsistency",
-    "href": "publications.html#adversarial-active-learning-for-medical-concept-identification-and-annotation-inconsistency",
-    "title": "Publications",
-    "section": "Adversarial active learning for medical concept identification and annotation inconsistency",
-    "text": "Adversarial active learning for medical concept identification and annotation inconsistency\nYu G, Yang Y, Wang X, … Shu L. Journal of Biomedical Informatics. PubMed 32687985\n\nUsed adversarial active learning to improve medical-concept recognition and detect inconsistent annotations in biomedical datasets."
-  },
-  {
-    "objectID": "publications.html#looking-for-the-complete-record",
-    "href": "publications.html#looking-for-the-complete-record",
-    "title": "Publications",
-    "section": "Looking for the complete record?",
-    "text": "Looking for the complete record?\nView all publications on Google Scholar →"
-  },
-  {
-    "objectID": "join.html",
-    "href": "join.html",
-    "title": "Join us",
-    "section": "",
-    "text": "We welcome highly motivated trainees and collaborators interested in clinically grounded stroke research, outcomes science, imaging, and NeuroAI."
-  },
-  {
-    "objectID": "join.html#who-may-be-a-good-fit",
-    "href": "join.html#who-may-be-a-good-fit",
-    "title": "Join us",
-    "section": "Who may be a good fit",
-    "text": "Who may be a good fit\n\n\nUndergraduate and medical students\nYou can commit consistently and want to grow through data analysis, scientific writing, or both.\n\n\nResidents and fellows\nYou are interested in stroke outcomes, epidemiology, neuroendovascular care, imaging, or recovery.\n\n\nEngineers and data scientists\nYou bring experience in Python, EHR data, NLP, medical imaging, or reproducible analytics."
-  },
-  {
-    "objectID": "join.html#what-to-send",
-    "href": "join.html#what-to-send",
-    "title": "Join us",
-    "section": "What to send",
-    "text": "What to send\nPlease include your CV and a short note—two or three sentences is enough—describing:\n\nthe questions or methods that interest you;\nwhat you hope to learn or build;\nthe time you can realistically commit.\n\nIf relevant, include a brief writing sample, project link, or GitHub profile."
-  },
-  {
-    "objectID": "join.html#liqi-shu-md",
-    "href": "join.html#liqi-shu-md",
-    "title": "Join us",
-    "section": "Liqi Shu, MD",
-    "text": "Liqi Shu, MD\nUPMC Department of Neurology\n200 Lothrop Street\nPittsburgh, PA 15213\nshul@pitt.edu\nStart an email"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Our research sits at the intersection of vascular neurology, neurointervention, and data science. We use electronic health records, multicenter registries, imaging, and wearable sensors to answer practical questions in stroke prevention, treatment, and recovery."
-  },
-  {
-    "objectID": "research.html#peri-procedural-stroke-predicting-risk-before-it-becomes-harm",
-    "href": "research.html#peri-procedural-stroke-predicting-risk-before-it-becomes-harm",
-    "title": "Research",
-    "section": "Peri-procedural stroke: predicting risk before it becomes harm",
-    "text": "Peri-procedural stroke: predicting risk before it becomes harm\n\n\nPerioperative stroke is uncommon overall but disproportionately affects patients undergoing cardiac, major vascular, and neurosurgical procedures. Our work combines clinical synthesis with patient-level prediction.\nIn 2026, we published an EHR-derived model using 255,850 procedures for derivation and 189,095 procedures for external validation. The model used routine clinical and procedural information and achieved an external-validation AUC of 0.86, separating patients into clinically useful risk strata.\nOpen the risk calculator ↗ · Read the validated model · Read the 2025 review in Stroke\n\n\n\nExternal validation\n\n\n0.86\n\nArea under the curve across two affiliated hospitals"
-  },
-  {
-    "objectID": "research.html#clinical-ai-turning-free-text-into-research-ready-evidence",
-    "href": "research.html#clinical-ai-turning-free-text-into-research-ready-evidence",
-    "title": "Research",
-    "section": "Clinical AI: turning free text into research-ready evidence",
-    "text": "Clinical AI: turning free text into research-ready evidence\n\n\nStroke registries depend on labor-intensive chart review. In a completed multicenter study, we evaluated 22 open-source language models on 2,416 neurointerventional reports from patients treated for large-vessel-occlusion stroke.\nThe best model reached 94.8% overall extraction accuracy across eight clinically relevant variables and aligned more closely with expert interpretation than non-expert annotation for seven of eight variables. This work demonstrates a practical route to scalable, secure registry curation without custom preprocessing.\nRead the 2026 study in AJNR\n\n\n\nBest model\n\n\n94.8%\n\nOverall accuracy in structured chart abstraction"
-  },
-  {
-    "objectID": "research.html#cerebral-venous-thrombosis-treatment-and-long-term-risk",
-    "href": "research.html#cerebral-venous-thrombosis-treatment-and-long-term-risk",
-    "title": "Research",
-    "section": "Cerebral venous thrombosis: treatment and long-term risk",
-    "text": "Cerebral venous thrombosis: treatment and long-term risk\n\n\nThrough international multicenter collaborations, we have studied anticoagulant treatment, recurrent thrombosis, and epilepsy after cerebral venous thrombosis (CVT).\nThe DIAS³ study developed a simple six-variable score and validated it in two independent cohorts. It estimates individualized 1- and 3-year epilepsy risk after CVT, supporting patient counseling and more personalized follow-up. Earlier ACTION-CVT work found that direct oral anticoagulants had comparable effectiveness to warfarin, with a lower risk of major hemorrhage in the primary multicenter analysis.\nOpen the DIAS³ calculator ↗ · Read the DIAS³ study · Read ACTION-CVT\n\n\n\nValidated in\n\n\n3\n\nInternational multicenter cohorts"
-  },
-  {
-    "objectID": "research.html#cervical-artery-dissection-treatment-recurrence-and-population-trends",
-    "href": "research.html#cervical-artery-dissection-treatment-recurrence-and-population-trends",
-    "title": "Research",
-    "section": "Cervical artery dissection: treatment, recurrence, and population trends",
-    "text": "Cervical artery dissection: treatment, recurrence, and population trends\n\n\nCompleted nationwide and international studies have examined thrombolysis, recurrence, and changing incidence of cervical artery dissection.\nOur 2025 nationwide analysis found that intravenous thrombolysis was associated with better odds of home discharge without a significant increase in intracerebral hemorrhage or in-hospital death. Separate work characterized US incidence trends and factors associated with recurrent stroke after dissection.\nRead the nationwide thrombolysis study · Read the incidence study · Read the recurrence study\n\n\n\nEvidence sources\n\n\nUS +\n\nNationwide data and a large international collaboration"
-  },
-  {
-    "objectID": "research.html#neurorecovery-measuring-what-the-affected-arm-actually-does",
-    "href": "research.html#neurorecovery-measuring-what-the-affected-arm-actually-does",
-    "title": "Research",
-    "section": "Neurorecovery: measuring what the affected arm actually does",
-    "text": "Neurorecovery: measuring what the affected arm actually does\n\n\nWrist accelerometers record movement, but conventional counts cannot reliably distinguish purposeful activity from nonfunctional motion. In completed work with stroke survivors, our best intrasubject machine-learning model reached 92.6% accuracy and closely tracked expert video annotation.\nThis line of work reflects a broader interest in pairing motion capture, imaging, and computational methods to make recovery measurement more sensitive to real-world function.\nRead the study in Neurorehabilitation and Neural Repair\n\n\n\nBest intrasubject model\n\n\n92.6%\n\nAccuracy for functional arm-use detection"
-  },
-  {
-    "objectID": "research.html#the-common-thread",
-    "href": "research.html#the-common-thread",
-    "title": "Research",
-    "section": "The common thread",
-    "text": "The common thread\n\n\nClinically anchored\nQuestions begin with decisions faced by patients and stroke teams.\n\n\nMultimodal\nWe connect structured clinical data, free text, imaging, EEG, and movement signals.\n\n\nExternally tested\nWhenever possible, models are evaluated across hospitals or independent cohorts."
-  },
-  {
-    "objectID": "tools.html",
-    "href": "tools.html",
-    "title": "Tools & Resources",
-    "section": "",
-    "text": "These resources translate peer-reviewed work into practical, accessible formats for clinicians and researchers. Each tool links to its validation study so users can review the methods, intended population, and limitations."
-  },
-  {
-    "objectID": "tools.html#brown-peri-procedural-stroke-risk-assessment-tool",
-    "href": "tools.html#brown-peri-procedural-stroke-risk-assessment-tool",
-    "title": "Tools & Resources",
-    "section": "Brown Peri-procedural Stroke Risk Assessment Tool",
-    "text": "Brown Peri-procedural Stroke Risk Assessment Tool\nEstimates the probability of ischemic stroke within 30 days of a procedure using age, relevant clinical history, procedure setting, and procedure category.\n\n\n≈445,000\n\nprocedures across three hospitals · external-validation AUC 0.86\n\nIntended use: Pre-procedural counseling, risk stratification, shared decision-making, and targeted prevention planning.\n\nOpen calculator ↗ Read validation study\n\nView the source code and locked model →"
-  },
-  {
-    "objectID": "tools.html#dias³-post-cvt-epilepsy-risk-calculator",
-    "href": "tools.html#dias³-post-cvt-epilepsy-risk-calculator",
-    "title": "Tools & Resources",
-    "section": "DIAS³ Post-CVT Epilepsy Risk Calculator",
-    "text": "DIAS³ Post-CVT Epilepsy Risk Calculator\nEstimates individualized 1- and 3-year epilepsy risk after cerebral venous thrombosis using six acute-phase clinical and imaging variables.\n\n\n3 cohorts\n\ndeveloped in 1,128 patients · externally validated in two independent cohorts\n\nIntended use: Patient counseling, personalized follow-up, and support for decisions about antiseizure care and future research.\n\nOpen DIAS³ calculator ↗ Read validation study\n\n\nThe CVT Consortium notes that this calculator is not CE marked and should be used with appropriate clinical caution."
-  },
-  {
-    "objectID": "tools.html#open-research-resources",
-    "href": "tools.html#open-research-resources",
-    "title": "Tools & Resources",
-    "section": "Open research resources",
-    "text": "Open research resources\n\n\n\n01\n\n\nOpen-access model paper\nFull methods, model development, validation, limitations, and supplementary material for the peri-procedural stroke calculator.\nRead in PubMed Central →\n\n\n\n\n02\n\n\nStroke-recovery methods\nOpen-access study comparing machine learning with conventional accelerometry for measuring functional arm use after stroke.\nRead in PubMed Central →\n\n\n\n\n03\n\n\nResearch profiles\nBrowse the complete and continuously updated publication record, persistent researcher identifier, and public code.\nGoogle Scholar · ORCID · GitHub"
-  },
-  {
-    "objectID": "tools.html#questions-about-a-tool",
-    "href": "tools.html#questions-about-a-tool",
-    "title": "Tools & Resources",
-    "section": "Questions about a tool?",
-    "text": "Questions about a tool?\nFor research questions, implementation feedback, or reproducibility inquiries, contact shul@pitt.edu. Please do not send protected health information or requests for individual medical advice."
+    "section": "Work with us",
+    "text": "Work with us\nWe welcome trainees and collaborators across medicine, data science, and engineering."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Better stroke decisions, from data to bedside.",
     "section": "",
-    "text": "Stroke research · NeuroAI · Clinical translation\n\n\n\nWe study stroke across the care continuum—using real-world clinical data, neuroimaging, and computational methods to turn complex evidence into decisions clinicians can use.\n\nExplore our research Meet the team\n\n\nOur approach\nLarge-scale clinical evidence, imaging, and translational analytics—designed for practical use.\n\n\n\n\n\n\n\n↗\n\nHuman questions. Rigorous evidence.\nCollaborative research shaped by the realities of clinical care."
+    "text": "Stroke research · NeuroAI · Clinical translation\n\n\n\nWe combine clinical data, neuroimaging, and computational methods to improve stroke prevention, treatment, and recovery.\n\nExplore our research"
   },
   {
-    "objectID": "index.html#one-lab-four-connected-lines-of-inquiry",
-    "href": "index.html#one-lab-four-connected-lines-of-inquiry",
+    "objectID": "index.html#three-connected-research-areas",
+    "href": "index.html#three-connected-research-areas",
     "title": "Better stroke decisions, from data to bedside.",
-    "section": "One lab, four connected lines of inquiry",
-    "text": "One lab, four connected lines of inquiry\nWe work across the stroke-care continuum, linking population evidence to individual decisions and recovery."
+    "section": "Three connected research areas",
+    "text": "Three connected research areas\nAcross each area, we focus on results that can inform clinical care."
   },
   {
-    "objectID": "index.html#what-the-research-has-produced",
-    "href": "index.html#what-the-research-has-produced",
+    "objectID": "index.html#clinical-tools",
+    "href": "index.html#clinical-tools",
     "title": "Better stroke decisions, from data to bedside.",
-    "section": "What the research has produced",
-    "text": "What the research has produced\nThese are findings from completed, peer-reviewed studies—not descriptions of work in progress."
+    "section": "Clinical tools",
+    "text": "Clinical tools\nPublic decision-support tools derived from completed, peer-reviewed studies.\nView all tools"
   },
   {
-    "objectID": "index.html#evidence-you-can-open-and-explore",
-    "href": "index.html#evidence-you-can-open-and-explore",
+    "objectID": "index.html#recent-publications",
+    "href": "index.html#recent-publications",
     "title": "Better stroke decisions, from data to bedside.",
-    "section": "Evidence you can open and explore",
-    "text": "Evidence you can open and explore\nTwo completed studies are available as public clinical decision-support tools.\nView all tools & resources"
+    "section": "Recent publications",
+    "text": "Recent publications"
   },
   {
-    "objectID": "index.html#built-for-useful-answers",
-    "href": "index.html#built-for-useful-answers",
+    "objectID": "index.html#build-better-evidence-for-stroke-care.",
+    "href": "index.html#build-better-evidence-for-stroke-care.",
     "title": "Better stroke decisions, from data to bedside.",
-    "section": "Built for useful answers",
-    "text": "Built for useful answers\nWe pair methodological rigor with a bias toward deployable clinical value—risk stratification, prognostication, and workflow tools that can improve real decisions.\nOur research approach"
+    "section": "Build better evidence for stroke care.",
+    "text": "Build better evidence for stroke care.\nWe welcome motivated trainees and collaborators."
   },
   {
-    "objectID": "index.html#recent-publication-highlights",
-    "href": "index.html#recent-publication-highlights",
-    "title": "Better stroke decisions, from data to bedside.",
-    "section": "Recent publication highlights",
-    "text": "Recent publication highlights"
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join us",
+    "section": "",
+    "text": "We welcome trainees and collaborators in clinical stroke research, outcomes science, imaging, and NeuroAI."
   },
   {
-    "objectID": "index.html#curious-rigorous-and-clinically-useful.",
-    "href": "index.html#curious-rigorous-and-clinically-useful.",
-    "title": "Better stroke decisions, from data to bedside.",
-    "section": "Curious, rigorous, and clinically useful.",
-    "text": "Curious, rigorous, and clinically useful.\nWe welcome motivated trainees and collaborators who want to build better evidence for stroke care."
+    "objectID": "join.html#who-may-be-a-good-fit",
+    "href": "join.html#who-may-be-a-good-fit",
+    "title": "Join us",
+    "section": "Who may be a good fit",
+    "text": "Who may be a good fit\n\n\nStudents and clinical trainees able to contribute consistently to data analysis or scientific writing.\n\n\nQuantitative collaborators experienced in EHR data, Python, NLP, medical imaging, or reproducible analytics."
+  },
+  {
+    "objectID": "join.html#what-to-send",
+    "href": "join.html#what-to-send",
+    "title": "Join us",
+    "section": "What to send",
+    "text": "What to send\n\nYour CV and a two- or three-sentence note describing your interests and goals.\nYour realistic time commitment, plus a relevant writing sample, project link, or GitHub profile if available."
+  },
+  {
+    "objectID": "join.html#liqi-shu-md",
+    "href": "join.html#liqi-shu-md",
+    "title": "Join us",
+    "section": "Liqi Shu, MD",
+    "text": "Liqi Shu, MD\nshul@pitt.edu\nStart an email"
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Tools",
+    "section": "",
+    "text": "These public tools translate validated research into practical resources for clinicians and researchers. Methods and limitations are available in the linked publications."
+  },
+  {
+    "objectID": "tools.html#brown-peri-procedural-stroke-risk-assessment-tool",
+    "href": "tools.html#brown-peri-procedural-stroke-risk-assessment-tool",
+    "title": "Tools",
+    "section": "Brown Peri-procedural Stroke Risk Assessment Tool",
+    "text": "Brown Peri-procedural Stroke Risk Assessment Tool\nEstimates the probability of ischemic stroke within 30 days of a procedure from clinical history, procedure setting, and procedure category.\n\nValidated across approximately 445,000 procedures at three hospitals · external-validation AUC 0.86\n\n\nOpen calculator ↗ Read the paper\n\nView source code and locked model →"
+  },
+  {
+    "objectID": "tools.html#dias³-post-cvt-epilepsy-risk-calculator",
+    "href": "tools.html#dias³-post-cvt-epilepsy-risk-calculator",
+    "title": "Tools",
+    "section": "DIAS³ Post-CVT Epilepsy Risk Calculator",
+    "text": "DIAS³ Post-CVT Epilepsy Risk Calculator\nEstimates individualized 1- and 3-year epilepsy risk after cerebral venous thrombosis from six acute-phase clinical and imaging variables.\n\nDeveloped in 1,128 patients · externally validated in two independent cohorts\n\n\nOpen DIAS³ calculator ↗ Read the paper\n\n\nThe CVT Consortium notes that this calculator is not CE marked and should be used with appropriate clinical caution."
+  },
+  {
+    "objectID": "tools.html#questions-about-a-tool",
+    "href": "tools.html#questions-about-a-tool",
+    "title": "Tools",
+    "section": "Questions about a tool?",
+    "text": "Questions about a tool?\nFor research, implementation, or reproducibility questions, contact shul@pitt.edu; please do not send protected health information or requests for individual medical advice."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About the Shu Lab",
     "section": "",
-    "text": "The Shu Lab is based in Pittsburgh and works across UPMC and Brown collaborations. We study stroke prevention, neuroendovascular outcomes, cerebrovascular epidemiology, clinical AI, and recovery through a translational, team-science approach."
+    "text": "The Shu Lab is based in Pittsburgh and collaborates across UPMC, Brown University, and partner institutions. We bring together clinical neuroscience, epidemiology, biostatistics, and engineering to study stroke prevention, treatment outcomes, clinical data, and recovery.\n\nOur approach is simple: begin with a meaningful clinical question, choose the method that best fits it, and make the result useful to patients, clinicians, or other researchers.\nMeet the team Explore our research"
   },
   {
-    "objectID": "about.html#about-liqi-shu",
-    "href": "about.html#about-liqi-shu",
-    "title": "About the Shu Lab",
-    "section": "About Liqi Shu",
-    "text": "About Liqi Shu\nLiqi Shu, MD, is a vascular neurologist at the UPMC Stroke Institute, core faculty in Pitt Cerebrovascular Medicine, and an Adjunct Instructor in Neurology at Brown University. He completed neurology residency and vascular neurology fellowship at Rhode Island Hospital/Brown, followed by the 2024–25 NIH StrokeNet SPIRIT research fellowship and neurointerventional training at UPMC.\nHis background in computer science and biology shapes a program that treats clinical data, imaging, language, EEG, and human movement as complementary signals. The lab’s completed work spans validated peri-procedural stroke prediction, large-language-model chart abstraction, international cerebrovascular registries, and machine-learning measures of post-stroke arm use.\nDr. Shu received a 2023 Brown Dean’s Excellence Award for teaching and mentoring in the Neurology Clerkship."
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Our work connects clinical questions with rigorous analysis and practical tools. The papers below represent selected contributions across risk prediction, stroke outcomes, medical AI, and recovery. Visit Google Scholar for the complete publication record."
   },
   {
-    "objectID": "about.html#selected-milestones",
-    "href": "about.html#selected-milestones",
-    "title": "About the Shu Lab",
-    "section": "Selected milestones",
-    "text": "Selected milestones\n\n\n\n2026\n\n\nResearch translated into two public outputs\nPublished the externally validated peri-procedural stroke model and released its open clinical calculator; coauthored a multicenter study of open-source language models for stroke-registry abstraction.\n\n\n\n\n2025\n\n\nCompleted the NIH StrokeNet SPIRIT fellowship\nCompleted three computational projects in stroke risk and rehabilitation, presented at three conferences, and contributed first/co-first authorship to five journal articles. Read the official fellowship update →\n\n\n\n\n2025\n\n\nNew Tools for Field Detection of Large Vessel Occlusion Stroke\nInvited presentation at the Rhode Island Stroke Symposium. View the public slides →\n\n\n\n\n2023\n\n\nDean’s Excellence Award\nRecognized by Brown for teaching and mentoring in the Neurology Clerkship."
+    "objectID": "publications.html#development-and-external-validation-of-an-ehr-derived-model-for-30-day-periprocedural-ischemic-stroke",
+    "href": "publications.html#development-and-external-validation-of-an-ehr-derived-model-for-30-day-periprocedural-ischemic-stroke",
+    "title": "Publications",
+    "section": "Development and External Validation of an EHR-Derived Model for 30-Day Periprocedural Ischemic Stroke",
+    "text": "Development and External Validation of an EHR-Derived Model for 30-Day Periprocedural Ischemic Stroke\nShu L, Furie KL, Garcia Guarniz AL, de Havenon A, Khan F, … Wu M, Zheng HB, Yaghi S. Journal of the American Heart Association. PubMed · Calculator · Source code\n\nDeveloped and validated across approximately 445,000 procedures, with an external-validation AUC of 0.86."
   },
   {
-    "objectID": "about.html#our-principles",
-    "href": "about.html#our-principles",
-    "title": "About the Shu Lab",
-    "section": "Our principles",
-    "text": "Our principles\n\n\nStart with the clinical need\nThe strongest analytic question begins with a decision patients and clinicians actually face.\n\n\nMatch the method to the question\nWe combine real-world evidence, registries, imaging, and quantitative models without treating any one method as the answer to everything.\n\n\nBuild collaboratively\nClinical insight, statistical rigor, engineering, and trainee curiosity are all part of the work.\n\n\nAim for translation\nWe favor outputs that can become better risk estimates, workflows, tools, and ultimately better care.\n\n\nExplore our research\n\nProfile information is linked to current institutional pages. Research claims on this site link to the corresponding peer-reviewed publication."
+    "objectID": "publications.html#large-language-models-for-accurate-medical-chart-abstraction-in-stroke",
+    "href": "publications.html#large-language-models-for-accurate-medical-chart-abstraction-in-stroke",
+    "title": "Publications",
+    "section": "Large Language Models for Accurate Medical Chart Abstraction in Stroke",
+    "text": "Large Language Models for Accurate Medical Chart Abstraction in Stroke\nZhong Z, Porto CM, Hong D, … Shu L, Baird G, Jayaraman M, Yaghi S, Jiao Z, Wolman DN. American Journal of Neuroradiology. PubMed\n\nAcross 2,416 thrombectomy reports, the highest-performing open-source model achieved 94.8% overall extraction accuracy."
+  },
+  {
+    "objectID": "publications.html#perioperative-stroke-mechanisms-risk-stratification-and-management",
+    "href": "publications.html#perioperative-stroke-mechanisms-risk-stratification-and-management",
+    "title": "Publications",
+    "section": "Perioperative Stroke: Mechanisms, Risk Stratification, and Management",
+    "text": "Perioperative Stroke: Mechanisms, Risk Stratification, and Management\nShu L, Aziz YN, de Havenon A, Messe SR, Nguyen TN, Sur NB, … Yaghi S. Stroke. PubMed"
+  },
+  {
+    "objectID": "publications.html#intravenous-thrombolysis-in-cervical-artery-dissectionrelated-stroke",
+    "href": "publications.html#intravenous-thrombolysis-in-cervical-artery-dissectionrelated-stroke",
+    "title": "Publications",
+    "section": "Intravenous Thrombolysis in Cervical Artery Dissection–Related Stroke",
+    "text": "Intravenous Thrombolysis in Cervical Artery Dissection–Related Stroke\nShu L, Lee E, Field TS, Guo X, Henninger N, Keser Z, … Yaghi S. Journal of the American Heart Association. PubMed\n\nThrombolysis was associated with better odds of home discharge without significantly higher intracerebral hemorrhage or in-hospital mortality."
+  },
+  {
+    "objectID": "publications.html#incidence-trends-and-risk-of-recurrent-stroke-of-cervical-artery-dissections-in-the-us",
+    "href": "publications.html#incidence-trends-and-risk-of-recurrent-stroke-of-cervical-artery-dissections-in-the-us",
+    "title": "Publications",
+    "section": "Incidence Trends and Risk of Recurrent Stroke of Cervical Artery Dissections in the US",
+    "text": "Incidence Trends and Risk of Recurrent Stroke of Cervical Artery Dissections in the US\nShu L, Strelecky L, de Havenon A, Nguyen TN, Henninger N, Keser Z, … Yaghi S. Neurology. PubMed"
+  },
+  {
+    "objectID": "publications.html#clinical-score-to-predict-epilepsy-after-cerebral-venous-thrombosis-dias³",
+    "href": "publications.html#clinical-score-to-predict-epilepsy-after-cerebral-venous-thrombosis-dias³",
+    "title": "Publications",
+    "section": "Clinical Score to Predict Epilepsy After Cerebral Venous Thrombosis (DIAS³)",
+    "text": "Clinical Score to Predict Epilepsy After Cerebral Venous Thrombosis (DIAS³)\nLindgren E, Shu L, Simaan N, … Zuurbier SM. JAMA Neurology. Co-equal contributors. PubMed · DIAS³ calculator"
+  },
+  {
+    "objectID": "publications.html#direct-oral-anticoagulants-versus-warfarin-in-cerebral-venous-thrombosis-action-cvt",
+    "href": "publications.html#direct-oral-anticoagulants-versus-warfarin-in-cerebral-venous-thrombosis-action-cvt",
+    "title": "Publications",
+    "section": "Direct Oral Anticoagulants Versus Warfarin in Cerebral Venous Thrombosis (ACTION-CVT)",
+    "text": "Direct Oral Anticoagulants Versus Warfarin in Cerebral Venous Thrombosis (ACTION-CVT)\nYaghi S, Shu L, Bakradze E, … Furie K. Stroke. PubMed"
+  },
+  {
+    "objectID": "publications.html#improving-accelerometry-based-measurement-of-functional-upper-extremity-use-after-stroke",
+    "href": "publications.html#improving-accelerometry-based-measurement-of-functional-upper-extremity-use-after-stroke",
+    "title": "Publications",
+    "section": "Improving Accelerometry-Based Measurement of Functional Upper-Extremity Use After Stroke",
+    "text": "Improving Accelerometry-Based Measurement of Functional Upper-Extremity Use After Stroke\nLum PS, Shu L, Bochniewicz EM, Tran T, Chang LC, Barth J, Dromerick AW. Neurorehabilitation and Neural Repair. PubMed"
+  },
+  {
+    "objectID": "publications.html#complete-publication-record",
+    "href": "publications.html#complete-publication-record",
+    "title": "Publications",
+    "section": "Complete publication record",
+    "text": "Complete publication record\nView all publications on Google Scholar →"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "We use electronic health records, multicenter registries, imaging, and wearable sensors to answer practical questions in stroke prevention, treatment, and recovery. Across these projects, the aim is consistent: transparent, externally tested evidence that clinicians can use."
+  },
+  {
+    "objectID": "research.html#peri-procedural-stroke",
+    "href": "research.html#peri-procedural-stroke",
+    "title": "Research",
+    "section": "Peri-procedural stroke",
+    "text": "Peri-procedural stroke\n\n\nOur externally validated model estimates 30-day ischemic-stroke risk from routine clinical and procedural information. Developed from 255,850 procedures and tested on 189,095 procedures at two affiliated hospitals, it achieved an external-validation AUC of 0.86 and separated patients into clinically useful risk strata. The corresponding calculator makes the published model accessible for exploration and clinical discussion.\nOpen the risk calculator ↗ · Validated model · Review in Stroke\n\n\n\nExternal validation\n\n\n0.86\n\nArea under the curve"
+  },
+  {
+    "objectID": "research.html#clinical-ai",
+    "href": "research.html#clinical-ai",
+    "title": "Research",
+    "section": "Clinical AI",
+    "text": "Clinical AI\n\n\nWe evaluated 22 open-source language models on 2,416 neurointerventional reports from patients treated for large-vessel-occlusion stroke. The best model reached 94.8% extraction accuracy across eight registry variables and aligned more closely with expert interpretation than non-expert annotation for seven variables, demonstrating a scalable approach to structured chart abstraction. This approach can reduce manual registry work while keeping deployment within secure research environments.\nRead the study in AJNR\n\n\n\nBest model\n\n\n94.8%\n\nOverall extraction accuracy"
+  },
+  {
+    "objectID": "research.html#cerebrovascular-outcomes",
+    "href": "research.html#cerebrovascular-outcomes",
+    "title": "Research",
+    "section": "Cerebrovascular outcomes",
+    "text": "Cerebrovascular outcomes\n\n\nInternational and nationwide collaborations have clarified treatment and long-term outcomes after cerebral venous thrombosis and cervical artery dissection. The validated six-variable DIAS³ score estimates epilepsy risk after venous thrombosis; complementary studies evaluated anticoagulant safety, thrombolysis, incidence trends, and recurrent stroke. Together, these studies support more informed counseling and treatment decisions across uncommon but consequential cerebrovascular conditions.\nOpen DIAS³ ↗ · DIAS³ · ACTION-CVT · Thrombolysis after dissection\n\n\n\nEvidence base\n\n\nGlobal\n\nMulticenter and nationwide evidence"
+  },
+  {
+    "objectID": "research.html#neurorecovery",
+    "href": "research.html#neurorecovery",
+    "title": "Research",
+    "section": "Neurorecovery",
+    "text": "Neurorecovery\n\n\nWrist accelerometers capture movement but do not reliably distinguish purposeful activity from nonfunctional motion. In stroke survivors, our best intrasubject machine-learning model reached 92.6% accuracy and closely tracked expert video annotation, offering a more meaningful measure of affected-arm use in daily life. The result improves on raw activity counts by focusing measurement on functional movement.\nRead the study in Neurorehabilitation and Neural Repair\n\n\n\nBest model\n\n\n92.6%\n\nFunctional arm-use detection"
+  },
+  {
+    "objectID": "research.html#one-approach",
+    "href": "research.html#one-approach",
+    "title": "Research",
+    "section": "One approach",
+    "text": "One approach\n\n\nClinically anchored\nQuestions begin with real decisions in stroke care.\n\n\nMultimodal\nClinical data, free text, imaging, and movement signals.\n\n\nExternally tested\nModels are evaluated across hospitals or independent cohorts whenever possible."
   }
 ]
