@@ -5,7 +5,7 @@ project:
 website:
   title: "Shu Lab"
   site-url: "https://liqi-shu.github.io"
-  description: "Vascular neurology and stroke research using real-world clinical data, multicenter registries, clinical AI, and recovery analytics."
+  description: "Stroke research, clinical AI, and neurorecovery."
   open-graph: true
   twitter-card: true
   favicon: images/favicon.svg
@@ -21,12 +21,10 @@ website:
         text: Tools
       - href: people.qmd
         text: People
-      - href: about.qmd
-        text: About
       - href: publications.qmd
         text: Publications
       - href: join.qmd
-        text: Join us
+        text: Join
     right:
       - icon: envelope
         aria-label: Email Liqi Shu
@@ -37,7 +35,7 @@ website:
   page-footer:
     border: false
     left: "© 2026 Shu Lab · UPMC Department of Neurology"
-    center: "Evidence · Translation · Recovery"
+    center: "Stroke research · Clinical AI · Recovery"
     right: "[Contact](join.qmd)"
 
 format:

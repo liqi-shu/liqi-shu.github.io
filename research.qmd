@@ -4,22 +4,16 @@ subtitle: "Completed work that moves from clinical uncertainty to usable evidenc
 ---
 
 ::: {.page-intro}
-Our research sits at the intersection of vascular neurology, neurointervention, and data science. We use electronic health records, multicenter registries, imaging, and wearable sensors to answer practical questions in stroke prevention, treatment, and recovery.
+We use electronic health records, multicenter registries, imaging, and wearable sensors to answer practical questions in stroke prevention, treatment, and recovery. Across these projects, the aim is consistent: transparent, externally tested evidence that clinicians can use.
 :::
 
-::: {.research-note}
-**Scope of this page:** The projects below are completed and publicly available through peer-reviewed publications. Ongoing projects are intentionally not described.
-:::
-
-## Peri-procedural stroke: predicting risk before it becomes harm
+## Peri-procedural stroke
 
 ::: {.research-story}
 ::: {.story-copy}
-Perioperative stroke is uncommon overall but disproportionately affects patients undergoing cardiac, major vascular, and neurosurgical procedures. Our work combines clinical synthesis with patient-level prediction.
+Our externally validated model estimates 30-day ischemic-stroke risk from routine clinical and procedural information. Developed from **255,850 procedures** and tested on **189,095 procedures** at two affiliated hospitals, it achieved an external-validation AUC of **0.86** and separated patients into clinically useful risk strata. The corresponding calculator makes the published model accessible for exploration and clinical discussion.
 
-In 2026, we published an EHR-derived model using **255,850 procedures** for derivation and **189,095 procedures** for external validation. The model used routine clinical and procedural information and achieved an external-validation AUC of **0.86**, separating patients into clinically useful risk strata.
-
-[Open the risk calculator ↗](https://liqi-shu.github.io/peri-procedural-stroke-calc/){.research-tool-link} · [Read the validated model](https://pubmed.ncbi.nlm.nih.gov/42261949/) · [Read the 2025 review in *Stroke*](https://pubmed.ncbi.nlm.nih.gov/40444359/)
+[Open the risk calculator ↗](https://liqi-shu.github.io/peri-procedural-stroke-calc/){.research-tool-link} · [Validated model](https://pubmed.ncbi.nlm.nih.gov/42261949/) · [Review in *Stroke*](https://pubmed.ncbi.nlm.nih.gov/40444359/)
 :::
 
 ::: {.story-result}
@@ -29,19 +23,17 @@ External validation
 ::: {.result-number}
 0.86
 :::
-Area under the curve across two affiliated hospitals
+Area under the curve
 :::
 :::
 
-## Clinical AI: turning free text into research-ready evidence
+## Clinical AI
 
 ::: {.research-story .story-reverse}
 ::: {.story-copy}
-Stroke registries depend on labor-intensive chart review. In a completed multicenter study, we evaluated 22 open-source language models on **2,416 neurointerventional reports** from patients treated for large-vessel-occlusion stroke.
+We evaluated 22 open-source language models on **2,416 neurointerventional reports** from patients treated for large-vessel-occlusion stroke. The best model reached **94.8% extraction accuracy** across eight registry variables and aligned more closely with expert interpretation than non-expert annotation for seven variables, demonstrating a scalable approach to structured chart abstraction. This approach can reduce manual registry work while keeping deployment within secure research environments.
 
-The best model reached **94.8% overall extraction accuracy** across eight clinically relevant variables and aligned more closely with expert interpretation than non-expert annotation for seven of eight variables. This work demonstrates a practical route to scalable, secure registry curation without custom preprocessing.
-
-[Read the 2026 study in *AJNR*](https://pubmed.ncbi.nlm.nih.gov/41720514/)
+[Read the study in *AJNR*](https://pubmed.ncbi.nlm.nih.gov/41720514/)
 :::
 
 ::: {.story-result}
@@ -51,91 +43,65 @@ Best model
 ::: {.result-number}
 94.8%
 :::
-Overall accuracy in structured chart abstraction
+Overall extraction accuracy
 :::
 :::
 
-## Cerebral venous thrombosis: treatment and long-term risk
+## Cerebrovascular outcomes
 
 ::: {.research-story}
 ::: {.story-copy}
-Through international multicenter collaborations, we have studied anticoagulant treatment, recurrent thrombosis, and epilepsy after cerebral venous thrombosis (CVT).
+International and nationwide collaborations have clarified treatment and long-term outcomes after cerebral venous thrombosis and cervical artery dissection. The validated six-variable **DIAS³** score estimates epilepsy risk after venous thrombosis; complementary studies evaluated anticoagulant safety, thrombolysis, incidence trends, and recurrent stroke. Together, these studies support more informed counseling and treatment decisions across uncommon but consequential cerebrovascular conditions.
 
-The **DIAS³** study developed a simple six-variable score and validated it in two independent cohorts. It estimates individualized 1- and 3-year epilepsy risk after CVT, supporting patient counseling and more personalized follow-up. Earlier ACTION-CVT work found that direct oral anticoagulants had comparable effectiveness to warfarin, with a lower risk of major hemorrhage in the primary multicenter analysis.
-
-[Open the DIAS³ calculator ↗](https://cerebralvenousthrombosis.com/professionals/dias-3/){.research-tool-link} · [Read the DIAS³ study](https://pubmed.ncbi.nlm.nih.gov/39432281/) · [Read ACTION-CVT](https://pubmed.ncbi.nlm.nih.gov/35143325/)
+[Open DIAS³ ↗](https://cerebralvenousthrombosis.com/professionals/dias-3/){.research-tool-link} · [DIAS³](https://pubmed.ncbi.nlm.nih.gov/39432281/) · [ACTION-CVT](https://pubmed.ncbi.nlm.nih.gov/35143325/) · [Thrombolysis after dissection](https://pubmed.ncbi.nlm.nih.gov/39968775/)
 :::
 
 ::: {.story-result}
 ::: {.result-label}
-Validated in
+Evidence base
 :::
 ::: {.result-number}
-3
+Global
 :::
-International multicenter cohorts
+Multicenter and nationwide evidence
 :::
 :::
 
-## Cervical artery dissection: treatment, recurrence, and population trends
+## Neurorecovery
 
 ::: {.research-story .story-reverse}
 ::: {.story-copy}
-Completed nationwide and international studies have examined thrombolysis, recurrence, and changing incidence of cervical artery dissection.
-
-Our 2025 nationwide analysis found that intravenous thrombolysis was associated with better odds of home discharge without a significant increase in intracerebral hemorrhage or in-hospital death. Separate work characterized US incidence trends and factors associated with recurrent stroke after dissection.
-
-[Read the nationwide thrombolysis study](https://pubmed.ncbi.nlm.nih.gov/39968775/) · [Read the incidence study](https://pubmed.ncbi.nlm.nih.gov/40173376/) · [Read the recurrence study](https://pubmed.ncbi.nlm.nih.gov/40143807/)
-:::
-
-::: {.story-result}
-::: {.result-label}
-Evidence sources
-:::
-::: {.result-number}
-US +
-:::
-Nationwide data and a large international collaboration
-:::
-:::
-
-## Neurorecovery: measuring what the affected arm actually does
-
-::: {.research-story}
-::: {.story-copy}
-Wrist accelerometers record movement, but conventional counts cannot reliably distinguish purposeful activity from nonfunctional motion. In completed work with stroke survivors, our best intrasubject machine-learning model reached **92.6% accuracy** and closely tracked expert video annotation.
-
-This line of work reflects a broader interest in pairing motion capture, imaging, and computational methods to make recovery measurement more sensitive to real-world function.
+Wrist accelerometers capture movement but do not reliably distinguish purposeful activity from nonfunctional motion. In stroke survivors, our best intrasubject machine-learning model reached **92.6% accuracy** and closely tracked expert video annotation, offering a more meaningful measure of affected-arm use in daily life. The result improves on raw activity counts by focusing measurement on functional movement.
 
 [Read the study in *Neurorehabilitation and Neural Repair*](https://doi.org/10.1177/1545968320962483)
 :::
 
 ::: {.story-result}
 ::: {.result-label}
-Best intrasubject model
+Best model
 :::
 ::: {.result-number}
 92.6%
 :::
-Accuracy for functional arm-use detection
+Functional arm-use detection
 :::
 :::
 
 ::: {.method-strip}
-## The common thread
+## One approach
 
 ::: {.method-grid}
 ::: {}
 **Clinically anchored**  
-Questions begin with decisions faced by patients and stroke teams.
+Questions begin with real decisions in stroke care.
 :::
 ::: {}
 **Multimodal**  
-We connect structured clinical data, free text, imaging, EEG, and movement signals.
+Clinical data, free text, imaging, and movement signals.
 :::
 ::: {}
 **Externally tested**  
-Whenever possible, models are evaluated across hospitals or independent cohorts.
+Models are evaluated across hospitals or independent cohorts whenever possible.
 :::
 :::
 :::

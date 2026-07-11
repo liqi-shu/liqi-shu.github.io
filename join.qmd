@@ -4,7 +4,7 @@ subtitle: "Do careful work on questions that matter."
 ---
 
 ::: {.page-intro}
-We welcome highly motivated trainees and collaborators interested in clinically grounded stroke research, outcomes science, imaging, and NeuroAI.
+We welcome trainees and collaborators in clinical stroke research, outcomes science, imaging, and NeuroAI.
 :::
 
 ::: {.join-layout}
@@ -13,28 +13,17 @@ We welcome highly motivated trainees and collaborators interested in clinically 
 
 ::: {.fit-list}
 ::: {.fit-item}
-**Undergraduate and medical students**  
-You can commit consistently and want to grow through data analysis, scientific writing, or both.
+**Students and clinical trainees** able to contribute consistently to data analysis or scientific writing.
 :::
 ::: {.fit-item}
-**Residents and fellows**  
-You are interested in stroke outcomes, epidemiology, neuroendovascular care, imaging, or recovery.
-:::
-::: {.fit-item}
-**Engineers and data scientists**  
-You bring experience in Python, EHR data, NLP, medical imaging, or reproducible analytics.
+**Quantitative collaborators** experienced in EHR data, Python, NLP, medical imaging, or reproducible analytics.
 :::
 :::
 
 ## What to send
 
-Please include your **CV** and a short note—two or three sentences is enough—describing:
-
-- the questions or methods that interest you;
-- what you hope to learn or build;
-- the time you can realistically commit.
-
-If relevant, include a brief writing sample, project link, or GitHub profile.
+- Your CV and a two- or three-sentence note describing your interests and goals.
+- Your realistic time commitment, plus a relevant writing sample, project link, or GitHub profile if available.
 :::
 
 ::: {.contact-card}
@@ -43,13 +32,8 @@ Contact
 :::
 ## Liqi Shu, MD
 
-UPMC Department of Neurology  
-200 Lothrop Street  
-Pittsburgh, PA 15213
-
 [shul@pitt.edu](mailto:shul@pitt.edu){.contact-email}
 
 [Start an email](mailto:shul@pitt.edu?subject=Shu%20Lab%20research%20interest){.btn .btn-light}
 :::
 :::
-

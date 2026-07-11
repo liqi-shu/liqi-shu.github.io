@@ -1,84 +1,12 @@
 ---
 title: "About the Shu Lab"
-subtitle: "Clinical questions, collaborative science, and evidence that can travel."
+subtitle: "Clinical questions, collaborative science, and practical evidence."
 ---
 
 ::: {.page-intro}
-The Shu Lab is based in Pittsburgh and works across UPMC and Brown collaborations. We study stroke prevention, neuroendovascular outcomes, cerebrovascular epidemiology, clinical AI, and recovery through a translational, team-science approach.
+The Shu Lab is based in Pittsburgh and collaborates across UPMC, Brown University, and partner institutions. We bring together clinical neuroscience, epidemiology, biostatistics, and engineering to study stroke prevention, treatment outcomes, clinical data, and recovery.
 :::
 
-## About Liqi Shu
+Our approach is simple: begin with a meaningful clinical question, choose the method that best fits it, and make the result useful to patients, clinicians, or other researchers.
 
-Liqi Shu, MD, is a [vascular neurologist at the UPMC Stroke Institute](https://providers.upmc.com/provider/liqi-shu/4838362), core faculty in [Pitt Cerebrovascular Medicine](https://www.neurology.pitt.edu/clinical-divisions/cerebrovascular-medicine), and an [Adjunct Instructor in Neurology at Brown University](https://vivo.brown.edu/display/lshu). He completed neurology residency and vascular neurology fellowship at Rhode Island Hospital/Brown, followed by the 2024–25 NIH StrokeNet SPIRIT research fellowship and neurointerventional training at UPMC.
-
-His background in computer science and biology shapes a program that treats clinical data, imaging, language, EEG, and human movement as complementary signals. The lab's completed work spans validated peri-procedural stroke prediction, large-language-model chart abstraction, international cerebrovascular registries, and machine-learning measures of post-stroke arm use.
-
-Dr. Shu received a 2023 [Brown Dean's Excellence Award](https://biomedical.brown.edu/about-division/leadership/office-dean/excellence-awards) for teaching and mentoring in the Neurology Clerkship.
-
-## Selected milestones
-
-::: {.milestone-list}
-::: {.milestone-item}
-::: {.milestone-year}
-2026
-:::
-::: {}
-**Research translated into two public outputs**  
-Published the externally validated peri-procedural stroke model and released its [open clinical calculator](https://liqi-shu.github.io/peri-procedural-stroke-calc/); coauthored a multicenter study of open-source language models for stroke-registry abstraction.
-:::
-:::
-::: {.milestone-item}
-::: {.milestone-year}
-2025
-:::
-::: {}
-**Completed the NIH StrokeNet SPIRIT fellowship**  
-Completed three computational projects in stroke risk and rehabilitation, presented at three conferences, and contributed first/co-first authorship to five journal articles. [Read the official fellowship update →](https://yppsweb2.its.yale.edu/yalemessage/pages/emt2/22202615554/)
-:::
-:::
-::: {.milestone-item}
-::: {.milestone-year}
-2025
-:::
-::: {}
-**New Tools for Field Detection of Large Vessel Occlusion Stroke**  
-Invited presentation at the Rhode Island Stroke Symposium. [View the public slides →](https://cme-learning.brown.edu/sites/default/files/media/2025-09/1_Liqi%20Shu.pdf)
-:::
-:::
-::: {.milestone-item}
-::: {.milestone-year}
-2023
-:::
-::: {}
-**Dean's Excellence Award**  
-Recognized by Brown for teaching and mentoring in the Neurology Clerkship.
-:::
-:::
-:::
-
-## Our principles
-
-::: {.focus-grid .principles-grid}
-::: {.focus-card}
-### Start with the clinical need
-The strongest analytic question begins with a decision patients and clinicians actually face.
-:::
-::: {.focus-card}
-### Match the method to the question
-We combine real-world evidence, registries, imaging, and quantitative models without treating any one method as the answer to everything.
-:::
-::: {.focus-card}
-### Build collaboratively
-Clinical insight, statistical rigor, engineering, and trainee curiosity are all part of the work.
-:::
-::: {.focus-card}
-### Aim for translation
-We favor outputs that can become better risk estimates, workflows, tools, and ultimately better care.
-:::
-:::
-
-[Explore our research](research.qmd){.btn .btn-primary}
-
-::: {.source-note}
-Profile information is linked to current institutional pages. Research claims on this site link to the corresponding peer-reviewed publication.
-:::
+[Meet the team](people.qmd){.btn .btn-primary} [Explore our research](research.qmd){.btn .btn-secondary}

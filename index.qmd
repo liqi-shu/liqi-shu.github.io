@@ -11,28 +11,15 @@ Stroke research · NeuroAI · Clinical translation
 
 # Better stroke decisions, from data to bedside.
 
-We study stroke across the care continuum—using real-world clinical data, neuroimaging, and computational methods to turn complex evidence into decisions clinicians can use.
+We combine clinical data, neuroimaging, and computational methods to improve stroke prevention, treatment, and recovery.
 
 ::: {.hero-actions}
-[Explore our research](research.qmd){.btn .btn-primary} [Meet the team](people.qmd){.btn .btn-outline-primary}
-:::
-
-::: {.hero-proof}
-**Our approach**  
-Large-scale clinical evidence, imaging, and translational analytics—designed for practical use.
+[Explore our research](research.qmd){.btn .btn-primary}
 :::
 :::
 
 :::: {.home-hero-visual}
 ![](images/group-2.jpg){fig-alt="Members of the Shu Lab gathering together"}
-
-::: {.visual-note}
-::: {.note-mark}
-↗
-:::
-**Human questions. Rigorous evidence.**  
-Collaborative research shaped by the realities of clinical care.
-:::
 ::::
 :::
 
@@ -42,9 +29,9 @@ Collaborative research shaped by the realities of clinical care.
 What we study
 :::
 
-## One lab, four connected lines of inquiry
+## Three connected research areas
 
-We work across the stroke-care continuum, linking population evidence to individual decisions and recovery.
+Across each area, we focus on results that can inform clinical care.
 :::
 
 ::: {.focus-grid}
@@ -52,100 +39,28 @@ We work across the stroke-care continuum, linking population evidence to individ
 ::: {.card-number}
 01
 :::
-### Prevention & outcomes
-Risk prediction and prevention around surgery and neuroendovascular care, including an externally validated model for 30-day stroke risk.
-
-[See the research →](research.qmd)
+### Risk & outcomes
+We use large clinical datasets and multicenter collaborations to clarify risk, treatment, recurrence, and long-term outcomes across cerebrovascular care.
 :::
 
 ::: {.focus-card}
 ::: {.card-number}
 02
 :::
-### Cerebrovascular evidence
-Nationwide datasets and international registries that clarify treatment, recurrence, and long-term outcomes after arterial and venous stroke.
-
-[See the research →](research.qmd)
+### Clinical AI
+We develop practical methods for turning imaging and unstructured health records into reliable, research-ready evidence.
 :::
 
 ::: {.focus-card}
 ::: {.card-number}
 03
 :::
-### Imaging & NeuroAI
-Clinical AI for imaging and unstructured health records, including automated abstraction of thrombectomy reports.
-
-[See the research →](research.qmd)
-:::
-
-::: {.focus-card}
-::: {.card-number}
-04
-:::
 ### Neurorecovery
-Wearable sensing and machine learning to measure how stroke survivors use the affected arm in everyday activity.
-
-[See the research →](research.qmd)
-:::
+We pair wearable sensing with machine learning to measure how stroke survivors use the affected arm in everyday activity.
 :::
 :::
 
-::: {.evidence-band}
-::: {.section-heading}
-::: {.eyebrow .eyebrow-light}
-Completed work · measurable results
-:::
-
-## What the research has produced
-
-These are findings from completed, peer-reviewed studies—not descriptions of work in progress.
-:::
-
-::: {.evidence-grid}
-::: {.evidence-card}
-::: {.evidence-stat}
-≈445K
-:::
-**procedures across three hospitals**
-
-An EHR-derived model predicted 30-day periprocedural ischemic stroke with an external-validation AUC of **0.86**.
-
-[Read the 2026 JAHA paper →](https://doi.org/10.1161/JAHA.125.049372)
-:::
-
-::: {.evidence-card}
-::: {.evidence-stat}
-94.8%
-:::
-**best extraction accuracy**
-
-Open-source language models converted **2,416 thrombectomy reports** into structured stroke-registry variables.
-
-[Read the 2026 AJNR paper →](https://pubmed.ncbi.nlm.nih.gov/41720514/)
-:::
-
-::: {.evidence-card}
-::: {.evidence-stat}
-3 cohorts
-:::
-**DIAS³ development and validation**
-
-A six-variable clinical score estimated individualized 1- and 3-year epilepsy risk after cerebral venous thrombosis.
-
-[Read the 2024 JAMA Neurology paper →](https://pubmed.ncbi.nlm.nih.gov/39432281/)
-:::
-
-::: {.evidence-card}
-::: {.evidence-stat}
-92.6%
-:::
-**intrasubject model accuracy**
-
-Machine learning distinguished functional from nonfunctional arm movement after stroke using wrist accelerometry.
-
-[Read the rehabilitation study →](https://doi.org/10.1177/1545968320962483)
-:::
-:::
+[Learn about our completed work →](research.qmd){.quiet-link}
 :::
 
 ::: {.tools-preview-band}
@@ -153,11 +68,11 @@ Machine learning distinguished functional from nonfunctional arm movement after 
 ::: {.eyebrow}
 Use the research
 :::
-## Evidence you can open and explore
+## Clinical tools
 
-Two completed studies are available as public clinical decision-support tools.
+Public decision-support tools derived from completed, peer-reviewed studies.
 
-[View all tools & resources](tools.qmd){.quiet-link}
+[View all tools](tools.qmd){.quiet-link}
 :::
 
 ::: {.tools-preview-grid}
@@ -166,7 +81,7 @@ Two completed studies are available as public clinical decision-support tools.
 30-day procedural risk
 :::
 ### Peri-procedural Stroke Risk Calculator
-Estimate individualized 30-day ischemic-stroke risk using the externally validated Brown model.
+Estimate individualized ischemic-stroke risk using the externally validated Brown model.
 
 [Open calculator ↗](https://liqi-shu.github.io/peri-procedural-stroke-calc/){.btn .btn-primary}
 :::
@@ -183,42 +98,13 @@ Estimate epilepsy risk after cerebral venous thrombosis using the internationall
 :::
 :::
 
-::: {.feature-band}
-::: {.feature-copy}
-::: {.eyebrow .eyebrow-light}
-How we work
-:::
-
-## Built for useful answers
-
-We pair methodological rigor with a bias toward deployable clinical value—risk stratification, prognostication, and workflow tools that can improve real decisions.
-
-[Our research approach](research.qmd){.text-link-light}
-:::
-
-::: {.feature-pillars}
-::: {.pillar}
-**01 · Grounded**  
-Questions begin with unmet needs in stroke care.
-:::
-::: {.pillar}
-**02 · Collaborative**  
-Clinicians, statisticians, engineers, and trainees work together.
-:::
-::: {.pillar}
-**03 · Translational**  
-Outputs are designed to move from analysis toward action.
-:::
-:::
-:::
-
 ::: {.section-shell .publication-preview}
 ::: {.section-heading .heading-row}
 ::: {}
 ::: {.eyebrow}
 Selected work
 :::
-## Recent publication highlights
+## Recent publications
 :::
 
 [View all publications](publications.qmd){.quiet-link}
@@ -230,8 +116,8 @@ Selected work
 2026
 :::
 ::: {.pub-copy}
-### EHR-derived model for 30-day periprocedural ischemic stroke
-*Journal of the American Heart Association* · [DOI 10.1161/JAHA.125.049372](https://doi.org/10.1161/JAHA.125.049372)
+### EHR-derived model for 30-day peri-procedural ischemic stroke
+*Journal of the American Heart Association* · [Read the paper](https://doi.org/10.1161/JAHA.125.049372)
 :::
 :::
 
@@ -241,7 +127,7 @@ Selected work
 :::
 ::: {.pub-copy}
 ### Large language models for scalable stroke chart abstraction
-*American Journal of Neuroradiology* · [PubMed 41720514](https://pubmed.ncbi.nlm.nih.gov/41720514/)
+*American Journal of Neuroradiology* · [Read the paper](https://pubmed.ncbi.nlm.nih.gov/41720514/)
 :::
 :::
 
@@ -250,8 +136,8 @@ Selected work
 2024
 :::
 ::: {.pub-copy}
-### DIAS³ clinical score for epilepsy after cerebral venous thrombosis
-*JAMA Neurology* · [PubMed 39432281](https://pubmed.ncbi.nlm.nih.gov/39432281/)
+### DIAS³ score for epilepsy after cerebral venous thrombosis
+*JAMA Neurology* · [Read the paper](https://pubmed.ncbi.nlm.nih.gov/39432281/)
 :::
 :::
 :::
@@ -262,8 +148,8 @@ Selected work
 ::: {.eyebrow}
 Work with us
 :::
-## Curious, rigorous, and clinically useful.
-We welcome motivated trainees and collaborators who want to build better evidence for stroke care.
+## Build better evidence for stroke care.
+We welcome motivated trainees and collaborators.
 :::
 
 [Explore opportunities](join.qmd){.btn .btn-primary}
